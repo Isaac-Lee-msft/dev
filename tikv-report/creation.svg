@@ -1,0 +1,522 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 990" role="img"><title>Object creation: recorded API counters and runner inventory</title><rect width="100%" height="100%" fill="white"/>
+<text x="25" y="29" font-family="sans-serif" font-size="20">Object creation: recorded API counters and runner inventory</text>
+<text x="95" y="52" font-family="sans-serif" font-size="13">ConfigMap POST 201 responses above baseline, cluster-wide (responses)</text>
+<path d="M95 215.0h795" stroke="#e2e8f0"/><text x="87" y="219.0" text-anchor="end" font-size="11">0.0</text>
+<path d="M95 176.25h795" stroke="#e2e8f0"/><text x="87" y="180.25" text-anchor="end" font-size="11">141.1</text>
+<path d="M95 137.5h795" stroke="#e2e8f0"/><text x="87" y="141.5" text-anchor="end" font-size="11">282.2</text>
+<path d="M95 98.75h795" stroke="#e2e8f0"/><text x="87" y="102.75" text-anchor="end" font-size="11">423.4</text>
+<path d="M95 60.0h795" stroke="#e2e8f0"/><text x="87" y="64.0" text-anchor="end" font-size="11">564.5</text>
+<text x="95.0" y="232" text-anchor="middle" font-size="11">0</text>
+<text x="175.2910147040363" y="232" text-anchor="middle" font-size="11">2</text>
+<text x="255.58202940807257" y="232" text-anchor="middle" font-size="11">4</text>
+<text x="335.8730441121088" y="232" text-anchor="middle" font-size="11">6</text>
+<text x="416.16405881614514" y="232" text-anchor="middle" font-size="11">8</text>
+<text x="496.4550735201814" y="232" text-anchor="middle" font-size="11">10</text>
+<text x="576.7460882242176" y="232" text-anchor="middle" font-size="11">12</text>
+<text x="657.037102928254" y="232" text-anchor="middle" font-size="11">14</text>
+<text x="737.3281176322903" y="232" text-anchor="middle" font-size="11">16</text>
+<text x="817.6191323363265" y="232" text-anchor="middle" font-size="11">18</text>
+<text x="897.9101470403627" y="232" text-anchor="middle" font-size="11">20</text>
+<text x="902" y="60" font-family="sans-serif" font-size="11" fill="#2563eb">Standard etcd</text>
+<circle cx="99.8939775164821" cy="215.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 0.12 min</title></circle>
+<path d="M99.8939775164821 215.0L115.47412637138024 148.27487244897958" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="115.47412637138024" cy="148.27487244897958" r="2" fill="#2563eb"><title>Standard etcd: 243.000 at 0.51 min</title></circle>
+<path d="M115.47412637138024 148.27487244897958L131.10909195016094 83.74645691609977" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="131.10909195016094" cy="83.74645691609977" r="2" fill="#2563eb"><title>Standard etcd: 478.000 at 0.90 min</title></circle>
+<circle cx="708.9661289136673" cy="76.60714285714286" r="2" fill="#2563eb"><title>Standard etcd: 504.000 at 15.29 min</title></circle>
+<path d="M708.9661289136673 76.60714285714286L725.3933098691729 76.60714285714286" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="725.3933098691729" cy="76.60714285714286" r="2" fill="#2563eb"><title>Standard etcd: 504.000 at 15.70 min</title></circle>
+<path d="M725.3933098691729 76.60714285714286L741.8497602723585 76.60714285714286" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="741.8497602723585" cy="76.60714285714286" r="2" fill="#2563eb"><title>Standard etcd: 504.000 at 16.11 min</title></circle>
+<path d="M741.8497602723585 76.60714285714286L758.7051452074189 76.60714285714286" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="758.7051452074189" cy="76.60714285714286" r="2" fill="#2563eb"><title>Standard etcd: 504.000 at 16.53 min</title></circle>
+<path d="M758.7051452074189 76.60714285714286L775.4237812984403 76.60714285714286" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="775.4237812984403" cy="76.60714285714286" r="2" fill="#2563eb"><title>Standard etcd: 504.000 at 16.95 min</title></circle>
+<path d="M775.4237812984403 76.60714285714286L791.2057095588806 76.60714285714286" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="791.2057095588806" cy="76.60714285714286" r="2" fill="#2563eb"><title>Standard etcd: 504.000 at 17.34 min</title></circle>
+<path d="M791.2057095588806 76.60714285714286L807.0278375265177 76.60714285714286" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="807.0278375265177" cy="76.60714285714286" r="2" fill="#2563eb"><title>Standard etcd: 504.000 at 17.74 min</title></circle>
+<path d="M807.0278375265177 76.60714285714286L822.9556738560241 76.60714285714286" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="822.9556738560241" cy="76.60714285714286" r="2" fill="#2563eb"><title>Standard etcd: 504.000 at 18.13 min</title></circle>
+<path d="M822.9556738560241 76.60714285714286L838.8262353576622 76.60714285714286" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="838.8262353576622" cy="76.60714285714286" r="2" fill="#2563eb"><title>Standard etcd: 504.000 at 18.53 min</title></circle>
+<path d="M838.8262353576622 76.60714285714286L854.9395120153769 76.60714285714286" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="854.9395120153769" cy="76.60714285714286" r="2" fill="#2563eb"><title>Standard etcd: 504.000 at 18.93 min</title></circle>
+<path d="M854.9395120153769 76.60714285714286L870.8441168773356 76.60714285714286" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="870.8441168773356" cy="76.60714285714286" r="2" fill="#2563eb"><title>Standard etcd: 504.000 at 19.33 min</title></circle>
+<text x="902" y="74" font-family="sans-serif" font-size="11" fill="#ea580c">TiKV-Dovetail</text>
+<circle cx="99.92155074638815" cy="215.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 0.12 min</title></circle>
+<path d="M99.92155074638815 215.0L114.97816014282472 145.52898242630386" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="114.97816014282472" cy="145.52898242630386" r="2" fill="#ea580c"><title>TiKV-Dovetail: 253.000 at 0.50 min</title></circle>
+<path d="M114.97816014282472 145.52898242630386L131.01791222872913 79.90221088435374" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="131.01791222872913" cy="79.90221088435374" r="2" fill="#ea580c"><title>TiKV-Dovetail: 492.000 at 0.90 min</title></circle>
+<path d="M131.01791222872913 79.90221088435374L147.03114553779682 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="147.03114553779682" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 1.30 min</title></circle>
+<path d="M147.03114553779682 76.88173185941042L163.62136870688806 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="163.62136870688806" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 1.71 min</title></circle>
+<path d="M163.62136870688806 76.88173185941042L180.24710939678613 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="180.24710939678613" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 2.12 min</title></circle>
+<path d="M180.24710939678613 76.88173185941042L195.81637154219587 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="195.81637154219587" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 2.51 min</title></circle>
+<path d="M195.81637154219587 76.88173185941042L211.33027553956006 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="211.33027553956006" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 2.90 min</title></circle>
+<path d="M211.33027553956006 76.88173185941042L226.66069273856272 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="226.66069273856272" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 3.28 min</title></circle>
+<path d="M226.66069273856272 76.88173185941042L242.0860344828706 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="242.0860344828706" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 3.66 min</title></circle>
+<path d="M242.0860344828706 76.88173185941042L257.6941876012895 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="257.6941876012895" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 4.05 min</title></circle>
+<path d="M257.6941876012895 76.88173185941042L272.7496426826867 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="272.7496426826867" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 4.43 min</title></circle>
+<path d="M272.7496426826867 76.88173185941042L288.4398619213496 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="288.4398619213496" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 4.82 min</title></circle>
+<path d="M288.4398619213496 76.88173185941042L304.02263031843404 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="304.02263031843404" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 5.21 min</title></circle>
+<path d="M304.02263031843404 76.88173185941042L319.26106937881696 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="319.26106937881696" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 5.59 min</title></circle>
+<path d="M319.26106937881696 76.88173185941042L335.0867856773682 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="335.0867856773682" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 5.98 min</title></circle>
+<path d="M335.0867856773682 76.88173185941042L350.16153740945856 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="350.16153740945856" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 6.36 min</title></circle>
+<path d="M350.16153740945856 76.88173185941042L365.2385614001753 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="365.2385614001753" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 6.73 min</title></circle>
+<path d="M365.2385614001753 76.88173185941042L380.75012374601073 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="380.75012374601073" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 7.12 min</title></circle>
+<path d="M380.75012374601073 76.88173185941042L396.1152372367126 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="396.1152372367126" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 7.50 min</title></circle>
+<path d="M396.1152372367126 76.88173185941042L411.6513550985792 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="411.6513550985792" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 7.89 min</title></circle>
+<path d="M411.6513550985792 76.88173185941042L427.1849017540053 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="427.1849017540053" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 8.27 min</title></circle>
+<path d="M427.1849017540053 76.88173185941042L442.14670289806975 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="442.14670289806975" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 8.65 min</title></circle>
+<path d="M442.14670289806975 76.88173185941042L458.01710583293755 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="458.01710583293755" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 9.04 min</title></circle>
+<path d="M458.01710583293755 76.88173185941042L473.2243282967501 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="473.2243282967501" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 9.42 min</title></circle>
+<path d="M473.2243282967501 76.88173185941042L488.2707581532077 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="488.2707581532077" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 9.80 min</title></circle>
+<path d="M488.2707581532077 76.88173185941042L503.5700697842839 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="503.5700697842839" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 10.18 min</title></circle>
+<path d="M503.5700697842839 76.88173185941042L519.2810040007562 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="519.2810040007562" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 10.57 min</title></circle>
+<path d="M519.2810040007562 76.88173185941042L534.7897119852043 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="534.7897119852043" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 10.95 min</title></circle>
+<path d="M534.7897119852043 76.88173185941042L540.0110834606651 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="540.0110834606651" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 11.08 min</title></circle>
+<path d="M540.0110834606651 76.88173185941042L553.393023094739 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="553.393023094739" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 11.42 min</title></circle>
+<path d="M553.393023094739 76.88173185941042L569.0017895826059 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="569.0017895826059" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 11.81 min</title></circle>
+<path d="M569.0017895826059 76.88173185941042L584.8893695739259 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="584.8893695739259" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 12.20 min</title></circle>
+<path d="M584.8893695739259 76.88173185941042L600.7901177857478 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="600.7901177857478" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 12.60 min</title></circle>
+<path d="M600.7901177857478 76.88173185941042L616.4265513035821 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="616.4265513035821" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 12.99 min</title></circle>
+<path d="M616.4265513035821 76.88173185941042L632.2561022379701 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="632.2561022379701" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 13.38 min</title></circle>
+<path d="M632.2561022379701 76.88173185941042L647.8305859201221 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="647.8305859201221" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 13.77 min</title></circle>
+<path d="M647.8305859201221 76.88173185941042L663.508792210466 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="663.508792210466" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 14.16 min</title></circle>
+<path d="M663.508792210466 76.88173185941042L679.4244992987204 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="679.4244992987204" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 14.56 min</title></circle>
+<path d="M679.4244992987204 76.88173185941042L694.825854867845 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="694.825854867845" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 14.94 min</title></circle>
+<path d="M694.825854867845 76.88173185941042L710.6360936777203 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="710.6360936777203" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 15.34 min</title></circle>
+<path d="M710.6360936777203 76.88173185941042L726.9318570783818 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="726.9318570783818" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 15.74 min</title></circle>
+<path d="M726.9318570783818 76.88173185941042L742.5372180497397 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="742.5372180497397" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 16.13 min</title></circle>
+<path d="M742.5372180497397 76.88173185941042L758.2040785207716 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="758.2040785207716" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 16.52 min</title></circle>
+<path d="M758.2040785207716 76.88173185941042L774.2500029059439 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="774.2500029059439" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 16.92 min</title></circle>
+<path d="M774.2500029059439 76.88173185941042L789.7347494414154 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="789.7347494414154" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 17.31 min</title></circle>
+<path d="M789.7347494414154 76.88173185941042L805.2951887977318 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="805.2951887977318" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 17.69 min</title></circle>
+<path d="M805.2951887977318 76.88173185941042L821.3590502112808 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="821.3590502112808" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 18.09 min</title></circle>
+<path d="M821.3590502112808 76.88173185941042L837.8420830413447 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="837.8420830413447" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 18.50 min</title></circle>
+<path d="M837.8420830413447 76.88173185941042L839.884577300986 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="839.884577300986" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 18.55 min</title></circle>
+<path d="M839.884577300986 76.88173185941042L841.9846764434731 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="841.9846764434731" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 18.61 min</title></circle>
+<path d="M841.9846764434731 76.88173185941042L857.149324048538 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="857.149324048538" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 18.98 min</title></circle>
+<path d="M857.149324048538 76.88173185941042L872.652124702939 76.88173185941042" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="872.652124702939" cy="76.88173185941042" r="2" fill="#ea580c"><title>TiKV-Dovetail: 503.000 at 19.37 min</title></circle>
+<text x="95" y="277" font-family="sans-serif" font-size="13">Pod POST 201 responses above baseline, cluster-wide (responses)</text>
+<path d="M95 440.0h795" stroke="#e2e8f0"/><text x="87" y="444.0" text-anchor="end" font-size="11">0.0</text>
+<path d="M95 401.25h795" stroke="#e2e8f0"/><text x="87" y="405.25" text-anchor="end" font-size="11">6.2</text>
+<path d="M95 362.5h795" stroke="#e2e8f0"/><text x="87" y="366.5" text-anchor="end" font-size="11">12.3</text>
+<path d="M95 323.75h795" stroke="#e2e8f0"/><text x="87" y="327.75" text-anchor="end" font-size="11">18.5</text>
+<path d="M95 285.0h795" stroke="#e2e8f0"/><text x="87" y="289.0" text-anchor="end" font-size="11">24.6</text>
+<text x="95.0" y="457" text-anchor="middle" font-size="11">0</text>
+<text x="175.2910147040363" y="457" text-anchor="middle" font-size="11">2</text>
+<text x="255.58202940807257" y="457" text-anchor="middle" font-size="11">4</text>
+<text x="335.8730441121088" y="457" text-anchor="middle" font-size="11">6</text>
+<text x="416.16405881614514" y="457" text-anchor="middle" font-size="11">8</text>
+<text x="496.4550735201814" y="457" text-anchor="middle" font-size="11">10</text>
+<text x="576.7460882242176" y="457" text-anchor="middle" font-size="11">12</text>
+<text x="657.037102928254" y="457" text-anchor="middle" font-size="11">14</text>
+<text x="737.3281176322903" y="457" text-anchor="middle" font-size="11">16</text>
+<text x="817.6191323363265" y="457" text-anchor="middle" font-size="11">18</text>
+<text x="897.9101470403627" y="457" text-anchor="middle" font-size="11">20</text>
+<text x="902" y="285" font-family="sans-serif" font-size="11" fill="#2563eb">Standard etcd</text>
+<circle cx="99.8939775164821" cy="440.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 0.12 min</title></circle>
+<path d="M99.8939775164821 440.0L115.47412637138024 440.0" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="115.47412637138024" cy="440.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 0.51 min</title></circle>
+<path d="M115.47412637138024 440.0L131.10909195016094 440.0" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="131.10909195016094" cy="440.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 0.90 min</title></circle>
+<circle cx="708.9661289136673" cy="301.6071428571429" r="2" fill="#2563eb"><title>Standard etcd: 22.000 at 15.29 min</title></circle>
+<path d="M708.9661289136673 301.6071428571429L725.3933098691729 301.6071428571429" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="725.3933098691729" cy="301.6071428571429" r="2" fill="#2563eb"><title>Standard etcd: 22.000 at 15.70 min</title></circle>
+<path d="M725.3933098691729 301.6071428571429L741.8497602723585 301.6071428571429" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="741.8497602723585" cy="301.6071428571429" r="2" fill="#2563eb"><title>Standard etcd: 22.000 at 16.11 min</title></circle>
+<path d="M741.8497602723585 301.6071428571429L758.7051452074189 301.6071428571429" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="758.7051452074189" cy="301.6071428571429" r="2" fill="#2563eb"><title>Standard etcd: 22.000 at 16.53 min</title></circle>
+<path d="M758.7051452074189 301.6071428571429L775.4237812984403 301.6071428571429" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="775.4237812984403" cy="301.6071428571429" r="2" fill="#2563eb"><title>Standard etcd: 22.000 at 16.95 min</title></circle>
+<path d="M775.4237812984403 301.6071428571429L791.2057095588806 301.6071428571429" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="791.2057095588806" cy="301.6071428571429" r="2" fill="#2563eb"><title>Standard etcd: 22.000 at 17.34 min</title></circle>
+<path d="M791.2057095588806 301.6071428571429L807.0278375265177 301.6071428571429" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="807.0278375265177" cy="301.6071428571429" r="2" fill="#2563eb"><title>Standard etcd: 22.000 at 17.74 min</title></circle>
+<path d="M807.0278375265177 301.6071428571429L822.9556738560241 301.6071428571429" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="822.9556738560241" cy="301.6071428571429" r="2" fill="#2563eb"><title>Standard etcd: 22.000 at 18.13 min</title></circle>
+<path d="M822.9556738560241 301.6071428571429L838.8262353576622 301.6071428571429" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="838.8262353576622" cy="301.6071428571429" r="2" fill="#2563eb"><title>Standard etcd: 22.000 at 18.53 min</title></circle>
+<path d="M838.8262353576622 301.6071428571429L854.9395120153769 301.6071428571429" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="854.9395120153769" cy="301.6071428571429" r="2" fill="#2563eb"><title>Standard etcd: 22.000 at 18.93 min</title></circle>
+<path d="M854.9395120153769 301.6071428571429L870.8441168773356 301.6071428571429" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="870.8441168773356" cy="301.6071428571429" r="2" fill="#2563eb"><title>Standard etcd: 22.000 at 19.33 min</title></circle>
+<text x="902" y="299" font-family="sans-serif" font-size="11" fill="#ea580c">TiKV-Dovetail</text>
+<circle cx="99.92155074638815" cy="440.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 0.12 min</title></circle>
+<path d="M99.92155074638815 440.0L114.97816014282472 440.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="114.97816014282472" cy="440.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 0.50 min</title></circle>
+<path d="M114.97816014282472 440.0L131.01791222872913 440.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="131.01791222872913" cy="440.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 0.90 min</title></circle>
+<path d="M131.01791222872913 440.0L147.03114553779682 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="147.03114553779682" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 1.30 min</title></circle>
+<path d="M147.03114553779682 301.6071428571429L163.62136870688806 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="163.62136870688806" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 1.71 min</title></circle>
+<path d="M163.62136870688806 301.6071428571429L180.24710939678613 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="180.24710939678613" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 2.12 min</title></circle>
+<path d="M180.24710939678613 301.6071428571429L195.81637154219587 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="195.81637154219587" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 2.51 min</title></circle>
+<path d="M195.81637154219587 301.6071428571429L211.33027553956006 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="211.33027553956006" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 2.90 min</title></circle>
+<path d="M211.33027553956006 301.6071428571429L226.66069273856272 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="226.66069273856272" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 3.28 min</title></circle>
+<path d="M226.66069273856272 301.6071428571429L242.0860344828706 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="242.0860344828706" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 3.66 min</title></circle>
+<path d="M242.0860344828706 301.6071428571429L257.6941876012895 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="257.6941876012895" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 4.05 min</title></circle>
+<path d="M257.6941876012895 301.6071428571429L272.7496426826867 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="272.7496426826867" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 4.43 min</title></circle>
+<path d="M272.7496426826867 301.6071428571429L288.4398619213496 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="288.4398619213496" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 4.82 min</title></circle>
+<path d="M288.4398619213496 301.6071428571429L304.02263031843404 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="304.02263031843404" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 5.21 min</title></circle>
+<path d="M304.02263031843404 301.6071428571429L319.26106937881696 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="319.26106937881696" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 5.59 min</title></circle>
+<path d="M319.26106937881696 301.6071428571429L335.0867856773682 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="335.0867856773682" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 5.98 min</title></circle>
+<path d="M335.0867856773682 301.6071428571429L350.16153740945856 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="350.16153740945856" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 6.36 min</title></circle>
+<path d="M350.16153740945856 301.6071428571429L365.2385614001753 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="365.2385614001753" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 6.73 min</title></circle>
+<path d="M365.2385614001753 301.6071428571429L380.75012374601073 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="380.75012374601073" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 7.12 min</title></circle>
+<path d="M380.75012374601073 301.6071428571429L396.1152372367126 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="396.1152372367126" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 7.50 min</title></circle>
+<path d="M396.1152372367126 301.6071428571429L411.6513550985792 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="411.6513550985792" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 7.89 min</title></circle>
+<path d="M411.6513550985792 301.6071428571429L427.1849017540053 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="427.1849017540053" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 8.27 min</title></circle>
+<path d="M427.1849017540053 301.6071428571429L442.14670289806975 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="442.14670289806975" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 8.65 min</title></circle>
+<path d="M442.14670289806975 301.6071428571429L458.01710583293755 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="458.01710583293755" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 9.04 min</title></circle>
+<path d="M458.01710583293755 301.6071428571429L473.2243282967501 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="473.2243282967501" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 9.42 min</title></circle>
+<path d="M473.2243282967501 301.6071428571429L488.2707581532077 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="488.2707581532077" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 9.80 min</title></circle>
+<path d="M488.2707581532077 301.6071428571429L503.5700697842839 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="503.5700697842839" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 10.18 min</title></circle>
+<path d="M503.5700697842839 301.6071428571429L519.2810040007562 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="519.2810040007562" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 10.57 min</title></circle>
+<path d="M519.2810040007562 301.6071428571429L534.7897119852043 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="534.7897119852043" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 10.95 min</title></circle>
+<path d="M534.7897119852043 301.6071428571429L540.0110834606651 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="540.0110834606651" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 11.08 min</title></circle>
+<path d="M540.0110834606651 301.6071428571429L553.393023094739 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="553.393023094739" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 11.42 min</title></circle>
+<path d="M553.393023094739 301.6071428571429L569.0017895826059 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="569.0017895826059" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 11.81 min</title></circle>
+<path d="M569.0017895826059 301.6071428571429L584.8893695739259 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="584.8893695739259" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 12.20 min</title></circle>
+<path d="M584.8893695739259 301.6071428571429L600.7901177857478 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="600.7901177857478" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 12.60 min</title></circle>
+<path d="M600.7901177857478 301.6071428571429L616.4265513035821 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="616.4265513035821" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 12.99 min</title></circle>
+<path d="M616.4265513035821 301.6071428571429L632.2561022379701 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="632.2561022379701" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 13.38 min</title></circle>
+<path d="M632.2561022379701 301.6071428571429L647.8305859201221 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="647.8305859201221" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 13.77 min</title></circle>
+<path d="M647.8305859201221 301.6071428571429L663.508792210466 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="663.508792210466" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 14.16 min</title></circle>
+<path d="M663.508792210466 301.6071428571429L679.4244992987204 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="679.4244992987204" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 14.56 min</title></circle>
+<path d="M679.4244992987204 301.6071428571429L694.825854867845 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="694.825854867845" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 14.94 min</title></circle>
+<path d="M694.825854867845 301.6071428571429L710.6360936777203 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="710.6360936777203" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 15.34 min</title></circle>
+<path d="M710.6360936777203 301.6071428571429L726.9318570783818 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="726.9318570783818" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 15.74 min</title></circle>
+<path d="M726.9318570783818 301.6071428571429L742.5372180497397 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="742.5372180497397" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 16.13 min</title></circle>
+<path d="M742.5372180497397 301.6071428571429L758.2040785207716 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="758.2040785207716" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 16.52 min</title></circle>
+<path d="M758.2040785207716 301.6071428571429L774.2500029059439 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="774.2500029059439" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 16.92 min</title></circle>
+<path d="M774.2500029059439 301.6071428571429L789.7347494414154 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="789.7347494414154" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 17.31 min</title></circle>
+<path d="M789.7347494414154 301.6071428571429L805.2951887977318 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="805.2951887977318" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 17.69 min</title></circle>
+<path d="M805.2951887977318 301.6071428571429L821.3590502112808 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="821.3590502112808" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 18.09 min</title></circle>
+<path d="M821.3590502112808 301.6071428571429L837.8420830413447 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="837.8420830413447" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 18.50 min</title></circle>
+<path d="M837.8420830413447 301.6071428571429L839.884577300986 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="839.884577300986" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 18.55 min</title></circle>
+<path d="M839.884577300986 301.6071428571429L841.9846764434731 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="841.9846764434731" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 18.61 min</title></circle>
+<path d="M841.9846764434731 301.6071428571429L857.149324048538 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="857.149324048538" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 18.98 min</title></circle>
+<path d="M857.149324048538 301.6071428571429L872.652124702939 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="872.652124702939" cy="301.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 22.000 at 19.37 min</title></circle>
+<text x="95" y="502" font-family="sans-serif" font-size="13">Node POST 201 responses above baseline, cluster-wide (responses)</text>
+<path d="M95 665.0h795" stroke="#e2e8f0"/><text x="87" y="669.0" text-anchor="end" font-size="11">0.0</text>
+<path d="M95 626.25h795" stroke="#e2e8f0"/><text x="87" y="630.25" text-anchor="end" font-size="11">0.3</text>
+<path d="M95 587.5h795" stroke="#e2e8f0"/><text x="87" y="591.5" text-anchor="end" font-size="11">0.6</text>
+<path d="M95 548.75h795" stroke="#e2e8f0"/><text x="87" y="552.75" text-anchor="end" font-size="11">0.8</text>
+<path d="M95 510.0h795" stroke="#e2e8f0"/><text x="87" y="514.0" text-anchor="end" font-size="11">1.1</text>
+<text x="95.0" y="682" text-anchor="middle" font-size="11">0</text>
+<text x="175.2910147040363" y="682" text-anchor="middle" font-size="11">2</text>
+<text x="255.58202940807257" y="682" text-anchor="middle" font-size="11">4</text>
+<text x="335.8730441121088" y="682" text-anchor="middle" font-size="11">6</text>
+<text x="416.16405881614514" y="682" text-anchor="middle" font-size="11">8</text>
+<text x="496.4550735201814" y="682" text-anchor="middle" font-size="11">10</text>
+<text x="576.7460882242176" y="682" text-anchor="middle" font-size="11">12</text>
+<text x="657.037102928254" y="682" text-anchor="middle" font-size="11">14</text>
+<text x="737.3281176322903" y="682" text-anchor="middle" font-size="11">16</text>
+<text x="817.6191323363265" y="682" text-anchor="middle" font-size="11">18</text>
+<text x="897.9101470403627" y="682" text-anchor="middle" font-size="11">20</text>
+<text x="902" y="510" font-family="sans-serif" font-size="11" fill="#2563eb">Standard etcd</text>
+<circle cx="99.8939775164821" cy="665.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 0.12 min</title></circle>
+<path d="M99.8939775164821 665.0L115.47412637138024 665.0" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="115.47412637138024" cy="665.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 0.51 min</title></circle>
+<path d="M115.47412637138024 665.0L131.10909195016094 665.0" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="131.10909195016094" cy="665.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 0.90 min</title></circle>
+<circle cx="708.9661289136673" cy="665.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 15.29 min</title></circle>
+<path d="M708.9661289136673 665.0L725.3933098691729 665.0" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="725.3933098691729" cy="665.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 15.70 min</title></circle>
+<path d="M725.3933098691729 665.0L741.8497602723585 665.0" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="741.8497602723585" cy="665.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 16.11 min</title></circle>
+<path d="M741.8497602723585 665.0L758.7051452074189 665.0" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="758.7051452074189" cy="665.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 16.53 min</title></circle>
+<path d="M758.7051452074189 665.0L775.4237812984403 665.0" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="775.4237812984403" cy="665.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 16.95 min</title></circle>
+<path d="M775.4237812984403 665.0L791.2057095588806 665.0" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="791.2057095588806" cy="665.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 17.34 min</title></circle>
+<path d="M791.2057095588806 665.0L807.0278375265177 665.0" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="807.0278375265177" cy="665.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 17.74 min</title></circle>
+<path d="M807.0278375265177 665.0L822.9556738560241 665.0" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="822.9556738560241" cy="665.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 18.13 min</title></circle>
+<path d="M822.9556738560241 665.0L838.8262353576622 665.0" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="838.8262353576622" cy="665.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 18.53 min</title></circle>
+<path d="M838.8262353576622 665.0L854.9395120153769 665.0" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="854.9395120153769" cy="665.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 18.93 min</title></circle>
+<path d="M854.9395120153769 665.0L870.8441168773356 665.0" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="870.8441168773356" cy="665.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 19.33 min</title></circle>
+<text x="902" y="524" font-family="sans-serif" font-size="11" fill="#ea580c">TiKV-Dovetail</text>
+<circle cx="99.92155074638815" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 0.12 min</title></circle>
+<path d="M99.92155074638815 665.0L114.97816014282472 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="114.97816014282472" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 0.50 min</title></circle>
+<path d="M114.97816014282472 665.0L131.01791222872913 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="131.01791222872913" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 0.90 min</title></circle>
+<path d="M131.01791222872913 665.0L147.03114553779682 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="147.03114553779682" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 1.30 min</title></circle>
+<path d="M147.03114553779682 665.0L163.62136870688806 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="163.62136870688806" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 1.71 min</title></circle>
+<path d="M163.62136870688806 665.0L180.24710939678613 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="180.24710939678613" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 2.12 min</title></circle>
+<path d="M180.24710939678613 665.0L195.81637154219587 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="195.81637154219587" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 2.51 min</title></circle>
+<path d="M195.81637154219587 665.0L211.33027553956006 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="211.33027553956006" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 2.90 min</title></circle>
+<path d="M211.33027553956006 665.0L226.66069273856272 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="226.66069273856272" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 3.28 min</title></circle>
+<path d="M226.66069273856272 665.0L242.0860344828706 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="242.0860344828706" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 3.66 min</title></circle>
+<path d="M242.0860344828706 665.0L257.6941876012895 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="257.6941876012895" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 4.05 min</title></circle>
+<path d="M257.6941876012895 665.0L272.7496426826867 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="272.7496426826867" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 4.43 min</title></circle>
+<path d="M272.7496426826867 665.0L288.4398619213496 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="288.4398619213496" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 4.82 min</title></circle>
+<path d="M288.4398619213496 665.0L304.02263031843404 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="304.02263031843404" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 5.21 min</title></circle>
+<path d="M304.02263031843404 665.0L319.26106937881696 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="319.26106937881696" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 5.59 min</title></circle>
+<path d="M319.26106937881696 665.0L335.0867856773682 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="335.0867856773682" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 5.98 min</title></circle>
+<path d="M335.0867856773682 665.0L350.16153740945856 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="350.16153740945856" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 6.36 min</title></circle>
+<path d="M350.16153740945856 665.0L365.2385614001753 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="365.2385614001753" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 6.73 min</title></circle>
+<path d="M365.2385614001753 665.0L380.75012374601073 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="380.75012374601073" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 7.12 min</title></circle>
+<path d="M380.75012374601073 665.0L396.1152372367126 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="396.1152372367126" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 7.50 min</title></circle>
+<path d="M396.1152372367126 665.0L411.6513550985792 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="411.6513550985792" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 7.89 min</title></circle>
+<path d="M411.6513550985792 665.0L427.1849017540053 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="427.1849017540053" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 8.27 min</title></circle>
+<path d="M427.1849017540053 665.0L442.14670289806975 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="442.14670289806975" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 8.65 min</title></circle>
+<path d="M442.14670289806975 665.0L458.01710583293755 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="458.01710583293755" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 9.04 min</title></circle>
+<path d="M458.01710583293755 665.0L473.2243282967501 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="473.2243282967501" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 9.42 min</title></circle>
+<path d="M473.2243282967501 665.0L488.2707581532077 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="488.2707581532077" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 9.80 min</title></circle>
+<path d="M488.2707581532077 665.0L503.5700697842839 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="503.5700697842839" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 10.18 min</title></circle>
+<path d="M503.5700697842839 665.0L519.2810040007562 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="519.2810040007562" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 10.57 min</title></circle>
+<path d="M519.2810040007562 665.0L534.7897119852043 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="534.7897119852043" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 10.95 min</title></circle>
+<path d="M534.7897119852043 665.0L540.0110834606651 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="540.0110834606651" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 11.08 min</title></circle>
+<path d="M540.0110834606651 665.0L553.393023094739 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="553.393023094739" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 11.42 min</title></circle>
+<path d="M553.393023094739 665.0L569.0017895826059 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="569.0017895826059" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 11.81 min</title></circle>
+<path d="M569.0017895826059 665.0L584.8893695739259 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="584.8893695739259" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 12.20 min</title></circle>
+<path d="M584.8893695739259 665.0L600.7901177857478 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="600.7901177857478" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 12.60 min</title></circle>
+<path d="M600.7901177857478 665.0L616.4265513035821 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="616.4265513035821" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 12.99 min</title></circle>
+<path d="M616.4265513035821 665.0L632.2561022379701 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="632.2561022379701" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 13.38 min</title></circle>
+<path d="M632.2561022379701 665.0L647.8305859201221 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="647.8305859201221" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 13.77 min</title></circle>
+<path d="M647.8305859201221 665.0L663.508792210466 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="663.508792210466" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 14.16 min</title></circle>
+<path d="M663.508792210466 665.0L679.4244992987204 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="679.4244992987204" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 14.56 min</title></circle>
+<path d="M679.4244992987204 665.0L694.825854867845 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="694.825854867845" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 14.94 min</title></circle>
+<path d="M694.825854867845 665.0L710.6360936777203 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="710.6360936777203" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 15.34 min</title></circle>
+<path d="M710.6360936777203 665.0L726.9318570783818 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="726.9318570783818" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 15.74 min</title></circle>
+<path d="M726.9318570783818 665.0L742.5372180497397 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="742.5372180497397" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 16.13 min</title></circle>
+<path d="M742.5372180497397 665.0L758.2040785207716 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="758.2040785207716" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 16.52 min</title></circle>
+<path d="M758.2040785207716 665.0L774.2500029059439 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="774.2500029059439" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 16.92 min</title></circle>
+<path d="M774.2500029059439 665.0L789.7347494414154 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="789.7347494414154" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 17.31 min</title></circle>
+<path d="M789.7347494414154 665.0L805.2951887977318 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="805.2951887977318" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 17.69 min</title></circle>
+<path d="M805.2951887977318 665.0L821.3590502112808 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="821.3590502112808" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 18.09 min</title></circle>
+<path d="M821.3590502112808 665.0L837.8420830413447 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="837.8420830413447" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 18.50 min</title></circle>
+<path d="M837.8420830413447 665.0L839.884577300986 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="839.884577300986" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 18.55 min</title></circle>
+<path d="M839.884577300986 665.0L841.9846764434731 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="841.9846764434731" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 18.61 min</title></circle>
+<path d="M841.9846764434731 665.0L857.149324048538 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="857.149324048538" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 18.98 min</title></circle>
+<path d="M857.149324048538 665.0L872.652124702939 665.0" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="872.652124702939" cy="665.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 19.37 min</title></circle>
+<text x="95" y="727" font-family="sans-serif" font-size="13">Runner and coordinator pods created, exact metadata timestamps (pods)</text>
+<path d="M95 890.0h795" stroke="#e2e8f0"/><text x="87" y="894.0" text-anchor="end" font-size="11">0.0</text>
+<path d="M95 851.25h795" stroke="#e2e8f0"/><text x="87" y="855.25" text-anchor="end" font-size="11">3.1</text>
+<path d="M95 812.5h795" stroke="#e2e8f0"/><text x="87" y="816.5" text-anchor="end" font-size="11">6.2</text>
+<path d="M95 773.75h795" stroke="#e2e8f0"/><text x="87" y="777.75" text-anchor="end" font-size="11">9.2</text>
+<path d="M95 735.0h795" stroke="#e2e8f0"/><text x="87" y="739.0" text-anchor="end" font-size="11">12.3</text>
+<text x="95.0" y="907" text-anchor="middle" font-size="11">0</text>
+<text x="175.2910147040363" y="907" text-anchor="middle" font-size="11">2</text>
+<text x="255.58202940807257" y="907" text-anchor="middle" font-size="11">4</text>
+<text x="335.8730441121088" y="907" text-anchor="middle" font-size="11">6</text>
+<text x="416.16405881614514" y="907" text-anchor="middle" font-size="11">8</text>
+<text x="496.4550735201814" y="907" text-anchor="middle" font-size="11">10</text>
+<text x="576.7460882242176" y="907" text-anchor="middle" font-size="11">12</text>
+<text x="657.037102928254" y="907" text-anchor="middle" font-size="11">14</text>
+<text x="737.3281176322903" y="907" text-anchor="middle" font-size="11">16</text>
+<text x="817.6191323363265" y="907" text-anchor="middle" font-size="11">18</text>
+<text x="897.9101470403627" y="907" text-anchor="middle" font-size="11">20</text>
+<text x="902" y="735" font-family="sans-serif" font-size="11" fill="#2563eb">Standard etcd</text>
+<circle cx="95.0" cy="890.0" r="2" fill="#2563eb"><title>Standard etcd: 0.000 at 0.00 min</title></circle>
+<path d="M95.0 890.0H140.43352504717956V877.4188311688312" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="140.43352504717956" cy="877.4188311688312" r="2" fill="#2563eb"><title>Standard etcd: 1.000 at 1.13 min</title></circle>
+<path d="M140.43352504717956 877.4188311688312H143.10989220398076V864.8376623376623" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="143.10989220398076" cy="864.8376623376623" r="2" fill="#2563eb"><title>Standard etcd: 2.000 at 1.20 min</title></circle>
+<path d="M143.10989220398076 864.8376623376623H143.10989220398076V852.2564935064935" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="143.10989220398076" cy="852.2564935064935" r="2" fill="#2563eb"><title>Standard etcd: 3.000 at 1.20 min</title></circle>
+<path d="M143.10989220398076 852.2564935064935H143.10989220398076V839.6753246753246" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="143.10989220398076" cy="839.6753246753246" r="2" fill="#2563eb"><title>Standard etcd: 4.000 at 1.20 min</title></circle>
+<path d="M143.10989220398076 839.6753246753246H143.10989220398076V827.0941558441558" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="143.10989220398076" cy="827.0941558441558" r="2" fill="#2563eb"><title>Standard etcd: 5.000 at 1.20 min</title></circle>
+<path d="M143.10989220398076 827.0941558441558H143.10989220398076V814.512987012987" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="143.10989220398076" cy="814.512987012987" r="2" fill="#2563eb"><title>Standard etcd: 6.000 at 1.20 min</title></circle>
+<path d="M143.10989220398076 814.512987012987H143.10989220398076V801.9318181818182" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="143.10989220398076" cy="801.9318181818182" r="2" fill="#2563eb"><title>Standard etcd: 7.000 at 1.20 min</title></circle>
+<path d="M143.10989220398076 801.9318181818182H143.10989220398076V789.3506493506493" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="143.10989220398076" cy="789.3506493506493" r="2" fill="#2563eb"><title>Standard etcd: 8.000 at 1.20 min</title></circle>
+<path d="M143.10989220398076 789.3506493506493H143.10989220398076V776.7694805194806" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="143.10989220398076" cy="776.7694805194806" r="2" fill="#2563eb"><title>Standard etcd: 9.000 at 1.20 min</title></circle>
+<path d="M143.10989220398076 776.7694805194806H143.10989220398076V764.1883116883117" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="143.10989220398076" cy="764.1883116883117" r="2" fill="#2563eb"><title>Standard etcd: 10.000 at 1.20 min</title></circle>
+<path d="M143.10989220398076 764.1883116883117H143.10989220398076V751.6071428571429" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="143.10989220398076" cy="751.6071428571429" r="2" fill="#2563eb"><title>Standard etcd: 11.000 at 1.20 min</title></circle>
+<path d="M143.10989220398076 751.6071428571429H765.9441700382082V751.6071428571429" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="765.9441700382082" cy="751.6071428571429" r="2" fill="#2563eb"><title>Standard etcd: 11.000 at 16.71 min</title></circle>
+<text x="902" y="749" font-family="sans-serif" font-size="11" fill="#ea580c">TiKV-Dovetail</text>
+<circle cx="95.0" cy="890.0" r="2" fill="#ea580c"><title>TiKV-Dovetail: 0.000 at 0.00 min</title></circle>
+<path d="M95.0 890.0H140.82241994154742V877.4188311688312" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="140.82241994154742" cy="877.4188311688312" r="2" fill="#ea580c"><title>TiKV-Dovetail: 1.000 at 1.14 min</title></circle>
+<path d="M140.82241994154742 877.4188311688312H142.160603519948V864.8376623376623" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="142.160603519948" cy="864.8376623376623" r="2" fill="#ea580c"><title>TiKV-Dovetail: 2.000 at 1.17 min</title></circle>
+<path d="M142.160603519948 864.8376623376623H142.160603519948V852.2564935064935" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="142.160603519948" cy="852.2564935064935" r="2" fill="#ea580c"><title>TiKV-Dovetail: 3.000 at 1.17 min</title></circle>
+<path d="M142.160603519948 852.2564935064935H142.160603519948V839.6753246753246" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="142.160603519948" cy="839.6753246753246" r="2" fill="#ea580c"><title>TiKV-Dovetail: 4.000 at 1.17 min</title></circle>
+<path d="M142.160603519948 839.6753246753246H142.160603519948V827.0941558441558" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="142.160603519948" cy="827.0941558441558" r="2" fill="#ea580c"><title>TiKV-Dovetail: 5.000 at 1.17 min</title></circle>
+<path d="M142.160603519948 827.0941558441558H142.160603519948V814.512987012987" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="142.160603519948" cy="814.512987012987" r="2" fill="#ea580c"><title>TiKV-Dovetail: 6.000 at 1.17 min</title></circle>
+<path d="M142.160603519948 814.512987012987H142.160603519948V801.9318181818182" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="142.160603519948" cy="801.9318181818182" r="2" fill="#ea580c"><title>TiKV-Dovetail: 7.000 at 1.17 min</title></circle>
+<path d="M142.160603519948 801.9318181818182H142.160603519948V789.3506493506493" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="142.160603519948" cy="789.3506493506493" r="2" fill="#ea580c"><title>TiKV-Dovetail: 8.000 at 1.17 min</title></circle>
+<path d="M142.160603519948 789.3506493506493H142.8296953091483V776.7694805194806" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="142.8296953091483" cy="776.7694805194806" r="2" fill="#ea580c"><title>TiKV-Dovetail: 9.000 at 1.19 min</title></circle>
+<path d="M142.8296953091483 776.7694805194806H142.8296953091483V764.1883116883117" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="142.8296953091483" cy="764.1883116883117" r="2" fill="#ea580c"><title>TiKV-Dovetail: 10.000 at 1.19 min</title></circle>
+<path d="M142.8296953091483 764.1883116883117H142.8296953091483V751.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="142.8296953091483" cy="751.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 11.000 at 1.19 min</title></circle>
+<path d="M142.8296953091483 751.6071428571429H835.6071906584765V751.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="835.6071906584765" cy="751.6071428571429" r="2" fill="#ea580c"><title>TiKV-Dovetail: 11.000 at 18.45 min</title></circle>
+<text x="95" y="978" font-family="sans-serif" font-size="12">Minutes from each run’s collection start; gaps longer than 90 seconds are not connected.</text></svg>

@@ -1,0 +1,753 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 765" role="img"><title>Standard etcd: component resources over time</title><rect width="100%" height="100%" fill="white"/>
+<text x="25" y="29" font-family="sans-serif" font-size="20">Standard etcd: component resources over time</text>
+<text x="95" y="52" font-family="sans-serif" font-size="13">Sum of sampled container CPU (cores)</text>
+<path d="M95 215.0h795" stroke="#e2e8f0"/><text x="87" y="219.0" text-anchor="end" font-size="11">0.0</text>
+<path d="M95 176.25h795" stroke="#e2e8f0"/><text x="87" y="180.25" text-anchor="end" font-size="11">1.1</text>
+<path d="M95 137.5h795" stroke="#e2e8f0"/><text x="87" y="141.5" text-anchor="end" font-size="11">2.1</text>
+<path d="M95 98.75h795" stroke="#e2e8f0"/><text x="87" y="102.75" text-anchor="end" font-size="11">3.2</text>
+<path d="M95 60.0h795" stroke="#e2e8f0"/><text x="87" y="64.0" text-anchor="end" font-size="11">4.3</text>
+<text x="95.0" y="232" text-anchor="middle" font-size="11">0</text>
+<text x="175.2910147040363" y="232" text-anchor="middle" font-size="11">2</text>
+<text x="255.58202940807257" y="232" text-anchor="middle" font-size="11">4</text>
+<text x="335.8730441121088" y="232" text-anchor="middle" font-size="11">6</text>
+<text x="416.16405881614514" y="232" text-anchor="middle" font-size="11">8</text>
+<text x="496.4550735201814" y="232" text-anchor="middle" font-size="11">10</text>
+<text x="576.7460882242176" y="232" text-anchor="middle" font-size="11">12</text>
+<text x="657.037102928254" y="232" text-anchor="middle" font-size="11">14</text>
+<text x="737.3281176322903" y="232" text-anchor="middle" font-size="11">16</text>
+<text x="817.6191323363265" y="232" text-anchor="middle" font-size="11">18</text>
+<text x="897.9101470403627" y="232" text-anchor="middle" font-size="11">20</text>
+<text x="902" y="60" font-family="sans-serif" font-size="11" fill="#2563eb">API servers</text>
+<circle cx="99.8939775164821" cy="208.32916139358298" r="2" fill="#2563eb"><title>API servers: 0.185 at 0.12 min</title></circle>
+<path d="M99.8939775164821 208.32916139358298L115.47412637138024 208.32916139358298" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="115.47412637138024" cy="208.32916139358298" r="2" fill="#2563eb"><title>API servers: 0.185 at 0.51 min</title></circle>
+<path d="M115.47412637138024 208.32916139358298L131.10909195016094 206.12958758281843" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="131.10909195016094" cy="206.12958758281843" r="2" fill="#2563eb"><title>API servers: 0.246 at 0.90 min</title></circle>
+<path d="M131.10909195016094 206.12958758281843L146.80391792040268 206.12958758281843" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="146.80391792040268" cy="206.12958758281843" r="2" fill="#2563eb"><title>API servers: 0.246 at 1.29 min</title></circle>
+<path d="M146.80391792040268 206.12958758281843L162.24772934343525 206.12958758281843" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="162.24772934343525" cy="206.12958758281843" r="2" fill="#2563eb"><title>API servers: 0.246 at 1.68 min</title></circle>
+<path d="M162.24772934343525 206.12958758281843L177.70307322875868 148.25555534876798" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="177.70307322875868" cy="148.25555534876798" r="2" fill="#2563eb"><title>API servers: 1.851 at 2.06 min</title></circle>
+<path d="M177.70307322875868 148.25555534876798L193.0634207830158 148.25555534876798" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="193.0634207830158" cy="148.25555534876798" r="2" fill="#2563eb"><title>API servers: 1.851 at 2.44 min</title></circle>
+<path d="M193.0634207830158 148.25555534876798L208.27007390598044 93.59073736321" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="208.27007390598044" cy="93.59073736321" r="2" fill="#2563eb"><title>API servers: 3.367 at 2.82 min</title></circle>
+<path d="M208.27007390598044 93.59073736321L224.11612982257236 93.08591714434601" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="224.11612982257236" cy="93.08591714434601" r="2" fill="#2563eb"><title>API servers: 3.381 at 3.22 min</title></circle>
+<path d="M224.11612982257236 93.08591714434601L239.39419047548904 93.08591714434601" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="239.39419047548904" cy="93.08591714434601" r="2" fill="#2563eb"><title>API servers: 3.381 at 3.60 min</title></circle>
+<path d="M239.39419047548904 93.08591714434601L254.51913816177864 100.73033760142931" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="254.51913816177864" cy="100.73033760142931" r="2" fill="#2563eb"><title>API servers: 3.169 at 3.97 min</title></circle>
+<path d="M254.51913816177864 100.73033760142931L269.7476071370811 99.3961698801459" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="269.7476071370811" cy="99.3961698801459" r="2" fill="#2563eb"><title>API servers: 3.206 at 4.35 min</title></circle>
+<path d="M269.7476071370811 99.3961698801459L284.80657509458126 100.73033760142931" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="284.80657509458126" cy="100.73033760142931" r="2" fill="#2563eb"><title>API servers: 3.169 at 4.73 min</title></circle>
+<path d="M284.80657509458126 100.73033760142931L299.9125847399357 96.9802445470111" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="299.9125847399357" cy="96.9802445470111" r="2" fill="#2563eb"><title>API servers: 3.273 at 5.10 min</title></circle>
+<path d="M299.9125847399357 96.9802445470111L314.96960156044776 98.3504708553562" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="314.96960156044776" cy="98.3504708553562" r="2" fill="#2563eb"><title>API servers: 3.235 at 5.48 min</title></circle>
+<path d="M314.96960156044776 98.3504708553562L330.05227269770836 95.6821354127894" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="330.05227269770836" cy="95.6821354127894" r="2" fill="#2563eb"><title>API servers: 3.309 at 5.86 min</title></circle>
+<path d="M330.05227269770836 95.6821354127894L345.1400262668585 95.6821354127894" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="345.1400262668585" cy="95.6821354127894" r="2" fill="#2563eb"><title>API servers: 3.309 at 6.23 min</title></circle>
+<path d="M345.1400262668585 95.6821354127894L360.167785603984 95.6821354127894" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="360.167785603984" cy="95.6821354127894" r="2" fill="#2563eb"><title>API servers: 3.309 at 6.61 min</title></circle>
+<path d="M360.167785603984 95.6821354127894L375.1362481476354 96.33118997990024" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="375.1362481476354" cy="96.33118997990024" r="2" fill="#2563eb"><title>API servers: 3.291 at 6.98 min</title></circle>
+<path d="M375.1362481476354 96.33118997990024L390.0869148415735 96.33118997990024" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="390.0869148415735" cy="96.33118997990024" r="2" fill="#2563eb"><title>API servers: 3.291 at 7.35 min</title></circle>
+<path d="M390.0869148415735 96.33118997990024L405.06224967542585 96.33118997990024" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="405.06224967542585" cy="96.33118997990024" r="2" fill="#2563eb"><title>API servers: 3.291 at 7.72 min</title></circle>
+<path d="M405.06224967542585 96.33118997990024L420.40575740678423 97.70141628824538" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="420.40575740678423" cy="97.70141628824538" r="2" fill="#2563eb"><title>API servers: 3.253 at 8.11 min</title></circle>
+<path d="M420.40575740678423 97.70141628824538L435.4966698684728 97.70141628824538" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="435.4966698684728" cy="97.70141628824538" r="2" fill="#2563eb"><title>API servers: 3.253 at 8.48 min</title></circle>
+<path d="M435.4966698684728 97.70141628824538L450.43415940857 98.6028809647882" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="450.43415940857" cy="98.6028809647882" r="2" fill="#2563eb"><title>API servers: 3.228 at 8.85 min</title></circle>
+<path d="M450.43415940857 98.6028809647882L465.58378257287393 98.49470520360308" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="465.58378257287393" cy="98.49470520360308" r="2" fill="#2563eb"><title>API servers: 3.231 at 9.23 min</title></circle>
+<path d="M465.58378257287393 98.49470520360308L480.60619849698713 98.49470520360308" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="480.60619849698713" cy="98.49470520360308" r="2" fill="#2563eb"><title>API servers: 3.231 at 9.61 min</title></circle>
+<path d="M480.60619849698713 98.49470520360308L495.8041054023371 97.62929911412195" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="495.8041054023371" cy="97.62929911412195" r="2" fill="#2563eb"><title>API servers: 3.255 at 9.98 min</title></circle>
+<path d="M495.8041054023371 97.62929911412195L510.8231732385501 97.62929911412195" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="510.8231732385501" cy="97.62929911412195" r="2" fill="#2563eb"><title>API servers: 3.255 at 10.36 min</title></circle>
+<path d="M510.8231732385501 97.62929911412195L525.7670139042223 97.62929911412195" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="525.7670139042223" cy="97.62929911412195" r="2" fill="#2563eb"><title>API servers: 3.255 at 10.73 min</title></circle>
+<path d="M525.7670139042223 97.62929911412195L541.9128926236976 94.78067073624655" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="541.9128926236976" cy="94.78067073624655" r="2" fill="#2563eb"><title>API servers: 3.334 at 11.13 min</title></circle>
+<path d="M541.9128926236976 94.78067073624655L557.2488811953851 94.78067073624655" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="557.2488811953851" cy="94.78067073624655" r="2" fill="#2563eb"><title>API servers: 3.334 at 11.51 min</title></circle>
+<path d="M557.2488811953851 94.78067073624655L572.3071164595499 97.80959204943052" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="572.3071164595499" cy="97.80959204943052" r="2" fill="#2563eb"><title>API servers: 3.250 at 11.89 min</title></circle>
+<path d="M572.3071164595499 97.80959204943052L587.4588646419077 96.25907280577681" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="587.4588646419077" cy="96.25907280577681" r="2" fill="#2563eb"><title>API servers: 3.293 at 12.27 min</title></circle>
+<path d="M587.4588646419077 96.25907280577681L603.4829919985639 97.80959204943052" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="603.4829919985639" cy="97.80959204943052" r="2" fill="#2563eb"><title>API servers: 3.250 at 12.67 min</title></circle>
+<path d="M603.4829919985639 97.80959204943052L618.8403006222655 97.48506476587508" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="618.8403006222655" cy="97.48506476587508" r="2" fill="#2563eb"><title>API servers: 3.259 at 13.05 min</title></circle>
+<path d="M618.8403006222655 97.48506476587508L633.767828053478 96.40330715402368" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="633.767828053478" cy="96.40330715402368" r="2" fill="#2563eb"><title>API servers: 3.289 at 13.42 min</title></circle>
+<path d="M633.767828053478 96.40330715402368L648.7766006948746 111.15126926226458" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="648.7766006948746" cy="111.15126926226458" r="2" fill="#2563eb"><title>API servers: 2.880 at 13.79 min</title></circle>
+<path d="M648.7766006948746 111.15126926226458L663.7146362853283 111.15126926226458" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="663.7146362853283" cy="111.15126926226458" r="2" fill="#2563eb"><title>API servers: 2.880 at 14.17 min</title></circle>
+<path d="M663.7146362853283 111.15126926226458L678.7787627676248 111.15126926226458" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="678.7787627676248" cy="111.15126926226458" r="2" fill="#2563eb"><title>API servers: 2.880 at 14.54 min</title></circle>
+<path d="M678.7787627676248 111.15126926226458L693.8744497800496 108.80746110325319" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="693.8744497800496" cy="108.80746110325319" r="2" fill="#2563eb"><title>API servers: 2.945 at 14.92 min</title></circle>
+<path d="M693.8744497800496 108.80746110325319L708.9661289136673 108.80746110325319" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="708.9661289136673" cy="108.80746110325319" r="2" fill="#2563eb"><title>API servers: 2.945 at 15.29 min</title></circle>
+<path d="M708.9661289136673 108.80746110325319L725.3933098691729 108.80746110325319" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="725.3933098691729" cy="108.80746110325319" r="2" fill="#2563eb"><title>API servers: 2.945 at 15.70 min</title></circle>
+<path d="M725.3933098691729 108.80746110325319L741.8497602723585 94.45614345269114" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="741.8497602723585" cy="94.45614345269114" r="2" fill="#2563eb"><title>API servers: 3.343 at 16.11 min</title></circle>
+<path d="M741.8497602723585 94.45614345269114L758.7051452074189 94.45614345269114" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="758.7051452074189" cy="94.45614345269114" r="2" fill="#2563eb"><title>API servers: 3.343 at 16.53 min</title></circle>
+<path d="M758.7051452074189 94.45614345269114L775.4237812984403 108.08628936201893" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="775.4237812984403" cy="108.08628936201893" r="2" fill="#2563eb"><title>API servers: 2.965 at 16.95 min</title></circle>
+<path d="M775.4237812984403 108.08628936201893L791.2057095588806 108.08628936201893" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="791.2057095588806" cy="108.08628936201893" r="2" fill="#2563eb"><title>API servers: 2.965 at 17.34 min</title></circle>
+<path d="M791.2057095588806 108.08628936201893L807.0278375265177 108.08628936201893" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="807.0278375265177" cy="108.08628936201893" r="2" fill="#2563eb"><title>API servers: 2.965 at 17.74 min</title></circle>
+<path d="M807.0278375265177 108.08628936201893L822.9556738560241 201.94679148365964" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="822.9556738560241" cy="201.94679148365964" r="2" fill="#2563eb"><title>API servers: 0.362 at 18.13 min</title></circle>
+<path d="M822.9556738560241 201.94679148365964L838.8262353576622 201.94679148365964" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="838.8262353576622" cy="201.94679148365964" r="2" fill="#2563eb"><title>API servers: 0.362 at 18.53 min</title></circle>
+<path d="M838.8262353576622 201.94679148365964L854.9395120153769 207.17528660760814" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="854.9395120153769" cy="207.17528660760814" r="2" fill="#2563eb"><title>API servers: 0.217 at 18.93 min</title></circle>
+<path d="M854.9395120153769 207.17528660760814L870.8441168773356 207.17528660760814" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="870.8441168773356" cy="207.17528660760814" r="2" fill="#2563eb"><title>API servers: 0.217 at 19.33 min</title></circle>
+<path d="M870.8441168773356 207.17528660760814L874.4574641720386 207.17528660760814" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="874.4574641720386" cy="207.17528660760814" r="2" fill="#2563eb"><title>API servers: 0.217 at 19.42 min</title></circle>
+<text x="902" y="74" font-family="sans-serif" font-size="11" fill="#ea580c">Runner pods</text>
+<circle cx="193.0634207830158" cy="78.08554492667312" r="2" fill="#ea580c"><title>Runner pods: 3.797 at 2.44 min</title></circle>
+<path d="M193.0634207830158 78.08554492667312L208.27007390598044 78.08554492667312" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="208.27007390598044" cy="78.08554492667312" r="2" fill="#ea580c"><title>Runner pods: 3.797 at 2.82 min</title></circle>
+<path d="M208.27007390598044 78.08554492667312L224.11612982257236 78.66248231966054" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="224.11612982257236" cy="78.66248231966054" r="2" fill="#ea580c"><title>Runner pods: 3.781 at 3.22 min</title></circle>
+<path d="M224.11612982257236 78.66248231966054L239.39419047548904 78.95095101615424" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="239.39419047548904" cy="78.95095101615424" r="2" fill="#ea580c"><title>Runner pods: 3.773 at 3.60 min</title></circle>
+<path d="M239.39419047548904 78.95095101615424L254.51913816177864 78.66248231966054" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="254.51913816177864" cy="78.66248231966054" r="2" fill="#ea580c"><title>Runner pods: 3.781 at 3.97 min</title></circle>
+<path d="M254.51913816177864 78.66248231966054L269.7476071370811 78.12160351373484" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="269.7476071370811" cy="78.12160351373484" r="2" fill="#ea580c"><title>Runner pods: 3.796 at 4.35 min</title></circle>
+<path d="M269.7476071370811 78.12160351373484L284.80657509458126 78.12160351373484" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="284.80657509458126" cy="78.12160351373484" r="2" fill="#ea580c"><title>Runner pods: 3.796 at 4.73 min</title></circle>
+<path d="M284.80657509458126 78.12160351373484L299.9125847399357 77.14802166306856" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="299.9125847399357" cy="77.14802166306856" r="2" fill="#ea580c"><title>Runner pods: 3.823 at 5.10 min</title></circle>
+<path d="M299.9125847399357 77.14802166306856L314.96960156044776 77.14802166306856" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="314.96960156044776" cy="77.14802166306856" r="2" fill="#ea580c"><title>Runner pods: 3.823 at 5.48 min</title></circle>
+<path d="M314.96960156044776 77.14802166306856L330.05227269770836 77.14802166306856" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="330.05227269770836" cy="77.14802166306856" r="2" fill="#ea580c"><title>Runner pods: 3.823 at 5.86 min</title></circle>
+<path d="M330.05227269770836 77.14802166306856L345.1400262668585 76.71531861832801" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="345.1400262668585" cy="76.71531861832801" r="2" fill="#ea580c"><title>Runner pods: 3.835 at 6.23 min</title></circle>
+<path d="M345.1400262668585 76.71531861832801L360.167785603984 76.60714285714286" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="360.167785603984" cy="76.60714285714286" r="2" fill="#ea580c"><title>Runner pods: 3.838 at 6.61 min</title></circle>
+<path d="M360.167785603984 76.60714285714286L375.1362481476354 76.60714285714286" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="375.1362481476354" cy="76.60714285714286" r="2" fill="#ea580c"><title>Runner pods: 3.838 at 6.98 min</title></circle>
+<path d="M375.1362481476354 76.60714285714286L390.0869148415735 78.0494863396114" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="390.0869148415735" cy="78.0494863396114" r="2" fill="#ea580c"><title>Runner pods: 3.798 at 7.35 min</title></circle>
+<path d="M390.0869148415735 78.0494863396114L405.06224967542585 78.0494863396114" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="405.06224967542585" cy="78.0494863396114" r="2" fill="#ea580c"><title>Runner pods: 3.798 at 7.72 min</title></circle>
+<path d="M405.06224967542585 78.0494863396114L420.40575740678423 78.0494863396114" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="420.40575740678423" cy="78.0494863396114" r="2" fill="#ea580c"><title>Runner pods: 3.798 at 8.11 min</title></circle>
+<path d="M420.40575740678423 78.0494863396114L435.4966698684728 78.48218938435198" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="435.4966698684728" cy="78.48218938435198" r="2" fill="#ea580c"><title>Runner pods: 3.786 at 8.48 min</title></circle>
+<path d="M435.4966698684728 78.48218938435198L450.43415940857 78.26583786198171" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="450.43415940857" cy="78.26583786198171" r="2" fill="#ea580c"><title>Runner pods: 3.792 at 8.85 min</title></circle>
+<path d="M450.43415940857 78.26583786198171L465.58378257287393 77.68890046899428" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="465.58378257287393" cy="77.68890046899428" r="2" fill="#ea580c"><title>Runner pods: 3.808 at 9.23 min</title></circle>
+<path d="M465.58378257287393 77.68890046899428L480.60619849698713 77.40043177250057" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="480.60619849698713" cy="77.40043177250057" r="2" fill="#ea580c"><title>Runner pods: 3.816 at 9.61 min</title></circle>
+<path d="M480.60619849698713 77.40043177250057L495.8041054023371 77.68890046899428" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="495.8041054023371" cy="77.68890046899428" r="2" fill="#ea580c"><title>Runner pods: 3.808 at 9.98 min</title></circle>
+<path d="M495.8041054023371 77.68890046899428L510.8231732385501 77.220138837192" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="510.8231732385501" cy="77.220138837192" r="2" fill="#ea580c"><title>Runner pods: 3.821 at 10.36 min</title></circle>
+<path d="M510.8231732385501 77.220138837192L525.7670139042223 77.29225601131543" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="525.7670139042223" cy="77.29225601131543" r="2" fill="#ea580c"><title>Runner pods: 3.819 at 10.73 min</title></circle>
+<path d="M525.7670139042223 77.29225601131543L541.9128926236976 77.43649035956228" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="541.9128926236976" cy="77.43649035956228" r="2" fill="#ea580c"><title>Runner pods: 3.815 at 11.13 min</title></circle>
+<path d="M541.9128926236976 77.43649035956228L557.2488811953851 77.36437318543884" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="557.2488811953851" cy="77.36437318543884" r="2" fill="#ea580c"><title>Runner pods: 3.817 at 11.51 min</title></circle>
+<path d="M557.2488811953851 77.36437318543884L572.3071164595499 77.36437318543884" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="572.3071164595499" cy="77.36437318543884" r="2" fill="#ea580c"><title>Runner pods: 3.817 at 11.89 min</title></circle>
+<path d="M572.3071164595499 77.36437318543884L587.4588646419077 77.25619742425371" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="587.4588646419077" cy="77.25619742425371" r="2" fill="#ea580c"><title>Runner pods: 3.820 at 12.27 min</title></circle>
+<path d="M587.4588646419077 77.25619742425371L603.4829919985639 77.25619742425371" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="603.4829919985639" cy="77.25619742425371" r="2" fill="#ea580c"><title>Runner pods: 3.820 at 12.67 min</title></circle>
+<path d="M603.4829919985639 77.25619742425371L618.8403006222655 77.25619742425371" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="618.8403006222655" cy="77.25619742425371" r="2" fill="#ea580c"><title>Runner pods: 3.820 at 13.05 min</title></circle>
+<path d="M618.8403006222655 77.25619742425371L633.767828053478 82.41257537407877" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="633.767828053478" cy="82.41257537407877" r="2" fill="#ea580c"><title>Runner pods: 3.677 at 13.42 min</title></circle>
+<path d="M633.767828053478 82.41257537407877L648.7766006948746 82.7731612446959" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="648.7766006948746" cy="82.7731612446959" r="2" fill="#ea580c"><title>Runner pods: 3.667 at 13.79 min</title></circle>
+<path d="M648.7766006948746 82.7731612446959L663.7146362853283 104.01166902404526" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="663.7146362853283" cy="104.01166902404526" r="2" fill="#ea580c"><title>Runner pods: 3.078 at 14.17 min</title></circle>
+<path d="M663.7146362853283 104.01166902404526L678.7787627676248 104.01166902404526" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="678.7787627676248" cy="104.01166902404526" r="2" fill="#ea580c"><title>Runner pods: 3.078 at 14.54 min</title></circle>
+<path d="M678.7787627676248 104.01166902404526L693.8744497800496 104.01166902404526" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="693.8744497800496" cy="104.01166902404526" r="2" fill="#ea580c"><title>Runner pods: 3.078 at 14.92 min</title></circle>
+<path d="M693.8744497800496 104.01166902404526L708.9661289136673 78.8067166679074" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="708.9661289136673" cy="78.8067166679074" r="2" fill="#ea580c"><title>Runner pods: 3.777 at 15.29 min</title></circle>
+<path d="M708.9661289136673 78.8067166679074L725.3933098691729 78.8067166679074" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="725.3933098691729" cy="78.8067166679074" r="2" fill="#ea580c"><title>Runner pods: 3.777 at 15.70 min</title></circle>
+<path d="M725.3933098691729 78.8067166679074L741.8497602723585 77.29225601131543" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="741.8497602723585" cy="77.29225601131543" r="2" fill="#ea580c"><title>Runner pods: 3.819 at 16.11 min</title></circle>
+<path d="M741.8497602723585 77.29225601131543L758.7051452074189 77.29225601131543" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="758.7051452074189" cy="77.29225601131543" r="2" fill="#ea580c"><title>Runner pods: 3.819 at 16.53 min</title></circle>
+<text x="902" y="88" font-family="sans-serif" font-size="11" fill="#059669">etcd</text>
+<circle cx="99.8939775164821" cy="210.60085237847093" r="2" fill="#059669"><title>etcd: 0.122 at 0.12 min</title></circle>
+<path d="M99.8939775164821 210.60085237847093L115.47412637138024 210.63691096553265" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="115.47412637138024" cy="210.63691096553265" r="2" fill="#059669"><title>etcd: 0.121 at 0.51 min</title></circle>
+<path d="M115.47412637138024 210.63691096553265L131.10909195016094 210.05997357254523" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="131.10909195016094" cy="210.05997357254523" r="2" fill="#059669"><title>etcd: 0.137 at 0.90 min</title></circle>
+<path d="M131.10909195016094 210.05997357254523L146.80391792040268 210.05997357254523" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="146.80391792040268" cy="210.05997357254523" r="2" fill="#059669"><title>etcd: 0.137 at 1.29 min</title></circle>
+<path d="M146.80391792040268 210.05997357254523L162.24772934343525 209.84362205017493" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="162.24772934343525" cy="209.84362205017493" r="2" fill="#059669"><title>etcd: 0.143 at 1.68 min</title></circle>
+<path d="M162.24772934343525 209.84362205017493L177.70307322875868 208.4373371547681" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="177.70307322875868" cy="208.4373371547681" r="2" fill="#059669"><title>etcd: 0.182 at 2.06 min</title></circle>
+<path d="M177.70307322875868 208.4373371547681L193.0634207830158 208.61763009007666" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="193.0634207830158" cy="208.61763009007666" r="2" fill="#059669"><title>etcd: 0.177 at 2.44 min</title></circle>
+<path d="M193.0634207830158 208.61763009007666L208.27007390598044 207.82434117471897" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="208.27007390598044" cy="207.82434117471897" r="2" fill="#059669"><title>etcd: 0.199 at 2.82 min</title></circle>
+<path d="M208.27007390598044 207.82434117471897L224.11612982257236 207.82434117471897" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="224.11612982257236" cy="207.82434117471897" r="2" fill="#059669"><title>etcd: 0.199 at 3.22 min</title></circle>
+<path d="M224.11612982257236 207.82434117471897L239.39419047548904 207.82434117471897" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="239.39419047548904" cy="207.82434117471897" r="2" fill="#059669"><title>etcd: 0.199 at 3.60 min</title></circle>
+<path d="M239.39419047548904 207.82434117471897L254.51913816177864 208.47339574182982" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="254.51913816177864" cy="208.47339574182982" r="2" fill="#059669"><title>etcd: 0.181 at 3.97 min</title></circle>
+<path d="M254.51913816177864 208.47339574182982L269.7476071370811 208.47339574182982" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="269.7476071370811" cy="208.47339574182982" r="2" fill="#059669"><title>etcd: 0.181 at 4.35 min</title></circle>
+<path d="M269.7476071370811 208.47339574182982L284.80657509458126 208.47339574182982" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="284.80657509458126" cy="208.47339574182982" r="2" fill="#059669"><title>etcd: 0.181 at 4.73 min</title></circle>
+<path d="M284.80657509458126 208.47339574182982L299.9125847399357 208.14886845827442" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="299.9125847399357" cy="208.14886845827442" r="2" fill="#059669"><title>etcd: 0.190 at 5.10 min</title></circle>
+<path d="M299.9125847399357 208.14886845827442L314.96960156044776 208.14886845827442" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="314.96960156044776" cy="208.14886845827442" r="2" fill="#059669"><title>etcd: 0.190 at 5.48 min</title></circle>
+<path d="M314.96960156044776 208.14886845827442L330.05227269770836 208.40127856770638" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="330.05227269770836" cy="208.40127856770638" r="2" fill="#059669"><title>etcd: 0.183 at 5.86 min</title></circle>
+<path d="M330.05227269770836 208.40127856770638L345.1400262668585 208.40127856770638" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="345.1400262668585" cy="208.40127856770638" r="2" fill="#059669"><title>etcd: 0.183 at 6.23 min</title></circle>
+<path d="M345.1400262668585 208.40127856770638L360.167785603984 208.40127856770638" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="360.167785603984" cy="208.40127856770638" r="2" fill="#059669"><title>etcd: 0.183 at 6.61 min</title></circle>
+<path d="M360.167785603984 208.40127856770638L375.1362481476354 208.22098563239783" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="375.1362481476354" cy="208.22098563239783" r="2" fill="#059669"><title>etcd: 0.188 at 6.98 min</title></circle>
+<path d="M375.1362481476354 208.22098563239783L390.0869148415735 208.22098563239783" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="390.0869148415735" cy="208.22098563239783" r="2" fill="#059669"><title>etcd: 0.188 at 7.35 min</title></circle>
+<path d="M390.0869148415735 208.22098563239783L405.06224967542585 208.22098563239783" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="405.06224967542585" cy="208.22098563239783" r="2" fill="#059669"><title>etcd: 0.188 at 7.72 min</title></circle>
+<path d="M405.06224967542585 208.22098563239783L420.40575740678423 208.4373371547681" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="420.40575740678423" cy="208.4373371547681" r="2" fill="#059669"><title>etcd: 0.182 at 8.11 min</title></circle>
+<path d="M420.40575740678423 208.4373371547681L435.4966698684728 208.4373371547681" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="435.4966698684728" cy="208.4373371547681" r="2" fill="#059669"><title>etcd: 0.182 at 8.48 min</title></circle>
+<path d="M435.4966698684728 208.4373371547681L450.43415940857 208.47339574182982" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="450.43415940857" cy="208.47339574182982" r="2" fill="#059669"><title>etcd: 0.181 at 8.85 min</title></circle>
+<path d="M450.43415940857 208.47339574182982L465.58378257287393 208.47339574182982" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="465.58378257287393" cy="208.47339574182982" r="2" fill="#059669"><title>etcd: 0.181 at 9.23 min</title></circle>
+<path d="M465.58378257287393 208.47339574182982L480.60619849698713 208.47339574182982" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="480.60619849698713" cy="208.47339574182982" r="2" fill="#059669"><title>etcd: 0.181 at 9.61 min</title></circle>
+<path d="M480.60619849698713 208.47339574182982L495.8041054023371 208.32916139358298" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="495.8041054023371" cy="208.32916139358298" r="2" fill="#059669"><title>etcd: 0.185 at 9.98 min</title></circle>
+<path d="M495.8041054023371 208.32916139358298L510.8231732385501 208.32916139358298" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="510.8231732385501" cy="208.32916139358298" r="2" fill="#059669"><title>etcd: 0.185 at 10.36 min</title></circle>
+<path d="M510.8231732385501 208.32916139358298L525.7670139042223 208.32916139358298" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="525.7670139042223" cy="208.32916139358298" r="2" fill="#059669"><title>etcd: 0.185 at 10.73 min</title></circle>
+<path d="M525.7670139042223 208.32916139358298L541.9128926236976 208.3652199806447" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="541.9128926236976" cy="208.3652199806447" r="2" fill="#059669"><title>etcd: 0.184 at 11.13 min</title></circle>
+<path d="M541.9128926236976 208.3652199806447L557.2488811953851 208.3652199806447" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="557.2488811953851" cy="208.3652199806447" r="2" fill="#059669"><title>etcd: 0.184 at 11.51 min</title></circle>
+<path d="M557.2488811953851 208.3652199806447L572.3071164595499 208.1849270453361" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="572.3071164595499" cy="208.1849270453361" r="2" fill="#059669"><title>etcd: 0.189 at 11.89 min</title></circle>
+<path d="M572.3071164595499 208.1849270453361L587.4588646419077 208.14886845827442" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="587.4588646419077" cy="208.14886845827442" r="2" fill="#059669"><title>etcd: 0.190 at 12.27 min</title></circle>
+<path d="M587.4588646419077 208.14886845827442L603.4829919985639 208.1849270453361" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="603.4829919985639" cy="208.1849270453361" r="2" fill="#059669"><title>etcd: 0.189 at 12.67 min</title></circle>
+<path d="M603.4829919985639 208.1849270453361L618.8403006222655 208.25704421945954" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="618.8403006222655" cy="208.25704421945954" r="2" fill="#059669"><title>etcd: 0.187 at 13.05 min</title></circle>
+<path d="M618.8403006222655 208.25704421945954L633.767828053478 208.25704421945954" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="633.767828053478" cy="208.25704421945954" r="2" fill="#059669"><title>etcd: 0.187 at 13.42 min</title></circle>
+<path d="M633.767828053478 208.25704421945954L648.7766006948746 208.76186443832353" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="648.7766006948746" cy="208.76186443832353" r="2" fill="#059669"><title>etcd: 0.173 at 13.79 min</title></circle>
+<path d="M648.7766006948746 208.76186443832353L663.7146362853283 208.76186443832353" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="663.7146362853283" cy="208.76186443832353" r="2" fill="#059669"><title>etcd: 0.173 at 14.17 min</title></circle>
+<path d="M663.7146362853283 208.76186443832353L678.7787627676248 208.76186443832353" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="678.7787627676248" cy="208.76186443832353" r="2" fill="#059669"><title>etcd: 0.173 at 14.54 min</title></circle>
+<path d="M678.7787627676248 208.76186443832353L693.8744497800496 207.53587247822526" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="693.8744497800496" cy="207.53587247822526" r="2" fill="#059669"><title>etcd: 0.207 at 14.92 min</title></circle>
+<path d="M693.8744497800496 207.53587247822526L708.9661289136673 207.53587247822526" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="708.9661289136673" cy="207.53587247822526" r="2" fill="#059669"><title>etcd: 0.207 at 15.29 min</title></circle>
+<path d="M708.9661289136673 207.53587247822526L725.3933098691729 207.53587247822526" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="725.3933098691729" cy="207.53587247822526" r="2" fill="#059669"><title>etcd: 0.207 at 15.70 min</title></circle>
+<path d="M725.3933098691729 207.53587247822526L741.8497602723585 207.6440482394104" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="741.8497602723585" cy="207.6440482394104" r="2" fill="#059669"><title>etcd: 0.204 at 16.11 min</title></circle>
+<path d="M741.8497602723585 207.6440482394104L758.7051452074189 207.6440482394104" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="758.7051452074189" cy="207.6440482394104" r="2" fill="#059669"><title>etcd: 0.204 at 16.53 min</title></circle>
+<path d="M758.7051452074189 207.6440482394104L775.4237812984403 207.86039976178068" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="775.4237812984403" cy="207.86039976178068" r="2" fill="#059669"><title>etcd: 0.198 at 16.95 min</title></circle>
+<path d="M775.4237812984403 207.86039976178068L791.2057095588806 207.86039976178068" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="791.2057095588806" cy="207.86039976178068" r="2" fill="#059669"><title>etcd: 0.198 at 17.34 min</title></circle>
+<path d="M791.2057095588806 207.86039976178068L807.0278375265177 207.86039976178068" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="807.0278375265177" cy="207.86039976178068" r="2" fill="#059669"><title>etcd: 0.198 at 17.74 min</title></circle>
+<path d="M807.0278375265177 207.86039976178068L822.9556738560241 208.7258058512618" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="822.9556738560241" cy="208.7258058512618" r="2" fill="#059669"><title>etcd: 0.174 at 18.13 min</title></circle>
+<path d="M822.9556738560241 208.7258058512618L838.8262353576622 208.54551291595325" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="838.8262353576622" cy="208.54551291595325" r="2" fill="#059669"><title>etcd: 0.179 at 18.53 min</title></circle>
+<path d="M838.8262353576622 208.54551291595325L854.9395120153769 210.38450085610066" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="854.9395120153769" cy="210.38450085610066" r="2" fill="#059669"><title>etcd: 0.128 at 18.93 min</title></circle>
+<path d="M854.9395120153769 210.38450085610066L870.8441168773356 210.60085237847093" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="870.8441168773356" cy="210.60085237847093" r="2" fill="#059669"><title>etcd: 0.122 at 19.33 min</title></circle>
+<path d="M870.8441168773356 210.60085237847093L874.4574641720386 210.60085237847093" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="874.4574641720386" cy="210.60085237847093" r="2" fill="#059669"><title>etcd: 0.122 at 19.42 min</title></circle>
+<text x="95" y="277" font-family="sans-serif" font-size="13">Sum of sampled container memory working set (MiB)</text>
+<path d="M95 440.0h795" stroke="#e2e8f0"/><text x="87" y="444.0" text-anchor="end" font-size="11">0.0</text>
+<path d="M95 401.25h795" stroke="#e2e8f0"/><text x="87" y="405.25" text-anchor="end" font-size="11">948.9</text>
+<path d="M95 362.5h795" stroke="#e2e8f0"/><text x="87" y="366.5" text-anchor="end" font-size="11">1897.8</text>
+<path d="M95 323.75h795" stroke="#e2e8f0"/><text x="87" y="327.75" text-anchor="end" font-size="11">2846.8</text>
+<path d="M95 285.0h795" stroke="#e2e8f0"/><text x="87" y="289.0" text-anchor="end" font-size="11">3795.7</text>
+<text x="95.0" y="457" text-anchor="middle" font-size="11">0</text>
+<text x="175.2910147040363" y="457" text-anchor="middle" font-size="11">2</text>
+<text x="255.58202940807257" y="457" text-anchor="middle" font-size="11">4</text>
+<text x="335.8730441121088" y="457" text-anchor="middle" font-size="11">6</text>
+<text x="416.16405881614514" y="457" text-anchor="middle" font-size="11">8</text>
+<text x="496.4550735201814" y="457" text-anchor="middle" font-size="11">10</text>
+<text x="576.7460882242176" y="457" text-anchor="middle" font-size="11">12</text>
+<text x="657.037102928254" y="457" text-anchor="middle" font-size="11">14</text>
+<text x="737.3281176322903" y="457" text-anchor="middle" font-size="11">16</text>
+<text x="817.6191323363265" y="457" text-anchor="middle" font-size="11">18</text>
+<text x="897.9101470403627" y="457" text-anchor="middle" font-size="11">20</text>
+<text x="902" y="285" font-family="sans-serif" font-size="11" fill="#2563eb">API servers</text>
+<circle cx="99.8939775164821" cy="409.8631075327741" r="2" fill="#2563eb"><title>API servers: 738.000 at 0.12 min</title></circle>
+<path d="M99.8939775164821 409.8631075327741L115.47412637138024 409.8631075327741" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="115.47412637138024" cy="409.8631075327741" r="2" fill="#2563eb"><title>API servers: 738.000 at 0.51 min</title></circle>
+<path d="M115.47412637138024 409.8631075327741L131.10909195016094 410.31230240694686" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="131.10909195016094" cy="410.31230240694686" r="2" fill="#2563eb"><title>API servers: 727.000 at 0.90 min</title></circle>
+<path d="M131.10909195016094 410.31230240694686L146.80391792040268 410.31230240694686" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="146.80391792040268" cy="410.31230240694686" r="2" fill="#2563eb"><title>API servers: 727.000 at 1.29 min</title></circle>
+<path d="M146.80391792040268 410.31230240694686L162.24772934343525 410.31230240694686" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="162.24772934343525" cy="410.31230240694686" r="2" fill="#2563eb"><title>API servers: 727.000 at 1.68 min</title></circle>
+<path d="M162.24772934343525 410.31230240694686L177.70307322875868 400.7975382540151" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="177.70307322875868" cy="400.7975382540151" r="2" fill="#2563eb"><title>API servers: 960.000 at 2.06 min</title></circle>
+<path d="M177.70307322875868 400.7975382540151L193.0634207830158 400.7975382540151" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="193.0634207830158" cy="400.7975382540151" r="2" fill="#2563eb"><title>API servers: 960.000 at 2.44 min</title></circle>
+<path d="M193.0634207830158 400.7975382540151L208.27007390598044 400.22583568688617" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="208.27007390598044" cy="400.22583568688617" r="2" fill="#2563eb"><title>API servers: 974.000 at 2.82 min</title></circle>
+<path d="M208.27007390598044 400.22583568688617L224.11612982257236 400.22583568688617" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="224.11612982257236" cy="400.22583568688617" r="2" fill="#2563eb"><title>API servers: 974.000 at 3.22 min</title></circle>
+<path d="M224.11612982257236 400.22583568688617L239.39419047548904 400.22583568688617" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="239.39419047548904" cy="400.22583568688617" r="2" fill="#2563eb"><title>API servers: 974.000 at 3.60 min</title></circle>
+<path d="M239.39419047548904 400.22583568688617L254.51913816177864 400.67503056105886" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="254.51913816177864" cy="400.67503056105886" r="2" fill="#2563eb"><title>API servers: 963.000 at 3.97 min</title></circle>
+<path d="M254.51913816177864 400.67503056105886L269.7476071370811 400.67503056105886" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="269.7476071370811" cy="400.67503056105886" r="2" fill="#2563eb"><title>API servers: 963.000 at 4.35 min</title></circle>
+<path d="M269.7476071370811 400.67503056105886L284.80657509458126 400.67503056105886" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="284.80657509458126" cy="400.67503056105886" r="2" fill="#2563eb"><title>API servers: 963.000 at 4.73 min</title></circle>
+<path d="M284.80657509458126 400.67503056105886L299.9125847399357 400.10332799392995" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="299.9125847399357" cy="400.10332799392995" r="2" fill="#2563eb"><title>API servers: 977.000 at 5.10 min</title></circle>
+<path d="M299.9125847399357 400.10332799392995L314.96960156044776 400.10332799392995" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="314.96960156044776" cy="400.10332799392995" r="2" fill="#2563eb"><title>API servers: 977.000 at 5.48 min</title></circle>
+<path d="M314.96960156044776 400.10332799392995L330.05227269770836 400.0216561986258" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="330.05227269770836" cy="400.0216561986258" r="2" fill="#2563eb"><title>API servers: 979.000 at 5.86 min</title></circle>
+<path d="M330.05227269770836 400.0216561986258L345.1400262668585 400.0216561986258" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="345.1400262668585" cy="400.0216561986258" r="2" fill="#2563eb"><title>API servers: 979.000 at 6.23 min</title></circle>
+<path d="M345.1400262668585 400.0216561986258L360.167785603984 400.0216561986258" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="360.167785603984" cy="400.0216561986258" r="2" fill="#2563eb"><title>API servers: 979.000 at 6.61 min</title></circle>
+<path d="M360.167785603984 400.0216561986258L375.1362481476354 401.12422543523166" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="375.1362481476354" cy="401.12422543523166" r="2" fill="#2563eb"><title>API servers: 952.000 at 6.98 min</title></circle>
+<path d="M375.1362481476354 401.12422543523166L390.0869148415735 401.12422543523166" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="390.0869148415735" cy="401.12422543523166" r="2" fill="#2563eb"><title>API servers: 952.000 at 7.35 min</title></circle>
+<path d="M390.0869148415735 401.12422543523166L405.06224967542585 401.12422543523166" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="405.06224967542585" cy="401.12422543523166" r="2" fill="#2563eb"><title>API servers: 952.000 at 7.72 min</title></circle>
+<path d="M405.06224967542585 401.12422543523166L420.40575740678423 400.3891792774944" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="420.40575740678423" cy="400.3891792774944" r="2" fill="#2563eb"><title>API servers: 970.000 at 8.11 min</title></circle>
+<path d="M420.40575740678423 400.3891792774944L435.4966698684728 400.3891792774944" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="435.4966698684728" cy="400.3891792774944" r="2" fill="#2563eb"><title>API servers: 970.000 at 8.48 min</title></circle>
+<path d="M435.4966698684728 400.3891792774944L450.43415940857 400.67503056105886" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="450.43415940857" cy="400.67503056105886" r="2" fill="#2563eb"><title>API servers: 963.000 at 8.85 min</title></circle>
+<path d="M450.43415940857 400.67503056105886L465.58378257287393 400.67503056105886" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="465.58378257287393" cy="400.67503056105886" r="2" fill="#2563eb"><title>API servers: 963.000 at 9.23 min</title></circle>
+<path d="M465.58378257287393 400.67503056105886L480.60619849698713 400.67503056105886" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="480.60619849698713" cy="400.67503056105886" r="2" fill="#2563eb"><title>API servers: 963.000 at 9.61 min</title></circle>
+<path d="M480.60619849698713 400.67503056105886L495.8041054023371 400.3891792774944" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="495.8041054023371" cy="400.3891792774944" r="2" fill="#2563eb"><title>API servers: 970.000 at 9.98 min</title></circle>
+<path d="M495.8041054023371 400.3891792774944L510.8231732385501 400.3891792774944" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="510.8231732385501" cy="400.3891792774944" r="2" fill="#2563eb"><title>API servers: 970.000 at 10.36 min</title></circle>
+<path d="M510.8231732385501 400.3891792774944L525.7670139042223 400.3891792774944" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="525.7670139042223" cy="400.3891792774944" r="2" fill="#2563eb"><title>API servers: 970.000 at 10.73 min</title></circle>
+<path d="M525.7670139042223 400.3891792774944L541.9128926236976 400.3891792774944" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="541.9128926236976" cy="400.3891792774944" r="2" fill="#2563eb"><title>API servers: 970.000 at 11.13 min</title></circle>
+<path d="M541.9128926236976 400.3891792774944L557.2488811953851 400.3891792774944" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="557.2488811953851" cy="400.3891792774944" r="2" fill="#2563eb"><title>API servers: 970.000 at 11.51 min</title></circle>
+<path d="M557.2488811953851 400.3891792774944L572.3071164595499 400.67503056105886" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="572.3071164595499" cy="400.67503056105886" r="2" fill="#2563eb"><title>API servers: 963.000 at 11.89 min</title></circle>
+<path d="M572.3071164595499 400.67503056105886L587.4588646419077 400.71586645871093" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="587.4588646419077" cy="400.71586645871093" r="2" fill="#2563eb"><title>API servers: 962.000 at 12.27 min</title></circle>
+<path d="M587.4588646419077 400.71586645871093L603.4829919985639 400.67503056105886" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="603.4829919985639" cy="400.67503056105886" r="2" fill="#2563eb"><title>API servers: 963.000 at 12.67 min</title></circle>
+<path d="M603.4829919985639 400.67503056105886L618.8403006222655 399.8991485056696" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="618.8403006222655" cy="399.8991485056696" r="2" fill="#2563eb"><title>API servers: 982.000 at 13.05 min</title></circle>
+<path d="M618.8403006222655 399.8991485056696L633.767828053478 399.8991485056696" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="633.767828053478" cy="399.8991485056696" r="2" fill="#2563eb"><title>API servers: 982.000 at 13.42 min</title></circle>
+<path d="M633.767828053478 399.8991485056696L648.7766006948746 400.67503056105886" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="648.7766006948746" cy="400.67503056105886" r="2" fill="#2563eb"><title>API servers: 963.000 at 13.79 min</title></circle>
+<path d="M648.7766006948746 400.67503056105886L663.7146362853283 400.67503056105886" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="663.7146362853283" cy="400.67503056105886" r="2" fill="#2563eb"><title>API servers: 963.000 at 14.17 min</title></circle>
+<path d="M663.7146362853283 400.67503056105886L678.7787627676248 400.67503056105886" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="678.7787627676248" cy="400.67503056105886" r="2" fill="#2563eb"><title>API servers: 963.000 at 14.54 min</title></circle>
+<path d="M678.7787627676248 400.67503056105886L693.8744497800496 400.63419466340684" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="693.8744497800496" cy="400.63419466340684" r="2" fill="#2563eb"><title>API servers: 964.000 at 14.92 min</title></circle>
+<path d="M693.8744497800496 400.63419466340684L708.9661289136673 400.63419466340684" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="708.9661289136673" cy="400.63419466340684" r="2" fill="#2563eb"><title>API servers: 964.000 at 15.29 min</title></circle>
+<path d="M708.9661289136673 400.63419466340684L725.3933098691729 400.63419466340684" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="725.3933098691729" cy="400.63419466340684" r="2" fill="#2563eb"><title>API servers: 964.000 at 15.70 min</title></circle>
+<path d="M725.3933098691729 400.63419466340684L741.8497602723585 400.71586645871093" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="741.8497602723585" cy="400.71586645871093" r="2" fill="#2563eb"><title>API servers: 962.000 at 16.11 min</title></circle>
+<path d="M741.8497602723585 400.71586645871093L758.7051452074189 400.71586645871093" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="758.7051452074189" cy="400.71586645871093" r="2" fill="#2563eb"><title>API servers: 962.000 at 16.53 min</title></circle>
+<path d="M758.7051452074189 400.71586645871093L775.4237812984403 401.6550921047085" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="775.4237812984403" cy="401.6550921047085" r="2" fill="#2563eb"><title>API servers: 939.000 at 16.95 min</title></circle>
+<path d="M775.4237812984403 401.6550921047085L791.2057095588806 401.6550921047085" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="791.2057095588806" cy="401.6550921047085" r="2" fill="#2563eb"><title>API servers: 939.000 at 17.34 min</title></circle>
+<path d="M791.2057095588806 401.6550921047085L807.0278375265177 401.6550921047085" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="807.0278375265177" cy="401.6550921047085" r="2" fill="#2563eb"><title>API servers: 939.000 at 17.74 min</title></circle>
+<path d="M807.0278375265177 401.6550921047085L822.9556738560241 404.75862032626566" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="822.9556738560241" cy="404.75862032626566" r="2" fill="#2563eb"><title>API servers: 863.000 at 18.13 min</title></circle>
+<path d="M822.9556738560241 404.75862032626566L838.8262353576622 404.75862032626566" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="838.8262353576622" cy="404.75862032626566" r="2" fill="#2563eb"><title>API servers: 863.000 at 18.53 min</title></circle>
+<path d="M838.8262353576622 404.75862032626566L854.9395120153769 405.9836972558277" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="854.9395120153769" cy="405.9836972558277" r="2" fill="#2563eb"><title>API servers: 833.000 at 18.93 min</title></circle>
+<path d="M854.9395120153769 405.9836972558277L870.8441168773356 405.9836972558277" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="870.8441168773356" cy="405.9836972558277" r="2" fill="#2563eb"><title>API servers: 833.000 at 19.33 min</title></circle>
+<path d="M870.8441168773356 405.9836972558277L874.4574641720386 405.9836972558277" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="874.4574641720386" cy="405.9836972558277" r="2" fill="#2563eb"><title>API servers: 833.000 at 19.42 min</title></circle>
+<text x="902" y="299" font-family="sans-serif" font-size="11" fill="#ea580c">Runner pods</text>
+<circle cx="193.0634207830158" cy="350.610220039624" r="2" fill="#ea580c"><title>Runner pods: 2189.000 at 2.44 min</title></circle>
+<path d="M193.0634207830158 350.610220039624L208.27007390598044 350.610220039624" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="208.27007390598044" cy="350.610220039624" r="2" fill="#ea580c"><title>Runner pods: 2189.000 at 2.82 min</title></circle>
+<path d="M208.27007390598044 350.610220039624L224.11612982257236 307.6916916073009" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="224.11612982257236" cy="307.6916916073009" r="2" fill="#ea580c"><title>Runner pods: 3240.000 at 3.22 min</title></circle>
+<path d="M224.11612982257236 307.6916916073009L239.39419047548904 304.7106710787" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="239.39419047548904" cy="304.7106710787" r="2" fill="#ea580c"><title>Runner pods: 3313.000 at 3.60 min</title></circle>
+<path d="M239.39419047548904 304.7106710787L254.51913816177864 307.6916916073009" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="254.51913816177864" cy="307.6916916073009" r="2" fill="#ea580c"><title>Runner pods: 3240.000 at 3.97 min</title></circle>
+<path d="M254.51913816177864 307.6916916073009L269.7476071370811 326.3945327319479" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="269.7476071370811" cy="326.3945327319479" r="2" fill="#ea580c"><title>Runner pods: 2782.000 at 4.35 min</title></circle>
+<path d="M269.7476071370811 326.3945327319479L284.80657509458126 326.3945327319479" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="284.80657509458126" cy="326.3945327319479" r="2" fill="#ea580c"><title>Runner pods: 2782.000 at 4.73 min</title></circle>
+<path d="M284.80657509458126 326.3945327319479L299.9125847399357 319.7382814146609" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="299.9125847399357" cy="319.7382814146609" r="2" fill="#ea580c"><title>Runner pods: 2945.000 at 5.10 min</title></circle>
+<path d="M299.9125847399357 319.7382814146609L314.96960156044776 319.7382814146609" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="314.96960156044776" cy="319.7382814146609" r="2" fill="#ea580c"><title>Runner pods: 2945.000 at 5.48 min</title></circle>
+<path d="M314.96960156044776 319.7382814146609L330.05227269770836 319.7382814146609" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="330.05227269770836" cy="319.7382814146609" r="2" fill="#ea580c"><title>Runner pods: 2945.000 at 5.86 min</title></circle>
+<path d="M330.05227269770836 319.7382814146609L345.1400262668585 315.12382497997726" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="345.1400262668585" cy="315.12382497997726" r="2" fill="#ea580c"><title>Runner pods: 3058.000 at 6.23 min</title></circle>
+<path d="M345.1400262668585 315.12382497997726L360.167785603984 316.26723011423513" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="360.167785603984" cy="316.26723011423513" r="2" fill="#ea580c"><title>Runner pods: 3030.000 at 6.61 min</title></circle>
+<path d="M360.167785603984 316.26723011423513L375.1362481476354 316.26723011423513" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="375.1362481476354" cy="316.26723011423513" r="2" fill="#ea580c"><title>Runner pods: 3030.000 at 6.98 min</title></circle>
+<path d="M375.1362481476354 316.26723011423513L390.0869148415735 314.47045061754415" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="390.0869148415735" cy="314.47045061754415" r="2" fill="#ea580c"><title>Runner pods: 3074.000 at 7.35 min</title></circle>
+<path d="M390.0869148415735 314.47045061754415L405.06224967542585 314.47045061754415" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="405.06224967542585" cy="314.47045061754415" r="2" fill="#ea580c"><title>Runner pods: 3074.000 at 7.72 min</title></circle>
+<path d="M405.06224967542585 314.47045061754415L420.40575740678423 314.47045061754415" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="420.40575740678423" cy="314.47045061754415" r="2" fill="#ea580c"><title>Runner pods: 3074.000 at 8.11 min</title></circle>
+<path d="M420.40575740678423 314.47045061754415L435.4966698684728 318.14568140623027" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="435.4966698684728" cy="318.14568140623027" r="2" fill="#ea580c"><title>Runner pods: 2984.000 at 8.48 min</title></circle>
+<path d="M435.4966698684728 318.14568140623027L450.43415940857 318.3090249968385" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="450.43415940857" cy="318.3090249968385" r="2" fill="#ea580c"><title>Runner pods: 2980.000 at 8.85 min</title></circle>
+<path d="M450.43415940857 318.3090249968385L465.58378257287393 320.8000147536146" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="465.58378257287393" cy="320.8000147536146" r="2" fill="#ea580c"><title>Runner pods: 2919.000 at 9.23 min</title></circle>
+<path d="M465.58378257287393 320.8000147536146L480.60619849698713 321.29004552543944" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="480.60619849698713" cy="321.29004552543944" r="2" fill="#ea580c"><title>Runner pods: 2907.000 at 9.61 min</title></circle>
+<path d="M480.60619849698713 321.29004552543944L495.8041054023371 320.8000147536146" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="495.8041054023371" cy="320.8000147536146" r="2" fill="#ea580c"><title>Runner pods: 2919.000 at 9.98 min</title></circle>
+<path d="M495.8041054023371 320.8000147536146L510.8231732385501 327.8237891497703" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="510.8231732385501" cy="327.8237891497703" r="2" fill="#ea580c"><title>Runner pods: 2747.000 at 10.36 min</title></circle>
+<path d="M510.8231732385501 327.8237891497703L525.7670139042223 328.1504763309868" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="525.7670139042223" cy="328.1504763309868" r="2" fill="#ea580c"><title>Runner pods: 2739.000 at 10.73 min</title></circle>
+<path d="M525.7670139042223 328.1504763309868L541.9128926236976 321.61673270665597" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="541.9128926236976" cy="321.61673270665597" r="2" fill="#ea580c"><title>Runner pods: 2899.000 at 11.13 min</title></circle>
+<path d="M541.9128926236976 321.61673270665597L557.2488811953851 322.84180963621804" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="557.2488811953851" cy="322.84180963621804" r="2" fill="#ea580c"><title>Runner pods: 2869.000 at 11.51 min</title></circle>
+<path d="M557.2488811953851 322.84180963621804L572.3071164595499 322.84180963621804" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="572.3071164595499" cy="322.84180963621804" r="2" fill="#ea580c"><title>Runner pods: 2869.000 at 11.89 min</title></circle>
+<path d="M572.3071164595499 322.84180963621804L587.4588646419077 315.2463326729334" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="587.4588646419077" cy="315.2463326729334" r="2" fill="#ea580c"><title>Runner pods: 3055.000 at 12.27 min</title></circle>
+<path d="M587.4588646419077 315.2463326729334L603.4829919985639 315.2463326729334" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="603.4829919985639" cy="315.2463326729334" r="2" fill="#ea580c"><title>Runner pods: 3055.000 at 12.67 min</title></circle>
+<path d="M603.4829919985639 315.2463326729334L618.8403006222655 315.2463326729334" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="618.8403006222655" cy="315.2463326729334" r="2" fill="#ea580c"><title>Runner pods: 3055.000 at 13.05 min</title></circle>
+<path d="M618.8403006222655 315.2463326729334L633.767828053478 308.30423007208196" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="633.767828053478" cy="308.30423007208196" r="2" fill="#ea580c"><title>Runner pods: 3225.000 at 13.42 min</title></circle>
+<path d="M633.767828053478 308.30423007208196L648.7766006948746 307.61001981199684" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="648.7766006948746" cy="307.61001981199684" r="2" fill="#ea580c"><title>Runner pods: 3242.000 at 13.79 min</title></circle>
+<path d="M648.7766006948746 307.61001981199684L663.7146362853283 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="663.7146362853283" cy="301.6071428571429" r="2" fill="#ea580c"><title>Runner pods: 3389.000 at 14.17 min</title></circle>
+<path d="M663.7146362853283 301.6071428571429L678.7787627676248 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="678.7787627676248" cy="301.6071428571429" r="2" fill="#ea580c"><title>Runner pods: 3389.000 at 14.54 min</title></circle>
+<path d="M678.7787627676248 301.6071428571429L693.8744497800496 301.6071428571429" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="693.8744497800496" cy="301.6071428571429" r="2" fill="#ea580c"><title>Runner pods: 3389.000 at 14.92 min</title></circle>
+<path d="M693.8744497800496 301.6071428571429L708.9661289136673 319.3299224381402" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="708.9661289136673" cy="319.3299224381402" r="2" fill="#ea580c"><title>Runner pods: 2955.000 at 15.29 min</title></circle>
+<path d="M708.9661289136673 319.3299224381402L725.3933098691729 319.3299224381402" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="725.3933098691729" cy="319.3299224381402" r="2" fill="#ea580c"><title>Runner pods: 2955.000 at 15.70 min</title></circle>
+<path d="M725.3933098691729 319.3299224381402L741.8497602723585 310.0601736711209" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="741.8497602723585" cy="310.0601736711209" r="2" fill="#ea580c"><title>Runner pods: 3182.000 at 16.11 min</title></circle>
+<path d="M741.8497602723585 310.0601736711209L758.7051452074189 310.0601736711209" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="758.7051452074189" cy="310.0601736711209" r="2" fill="#ea580c"><title>Runner pods: 3182.000 at 16.53 min</title></circle>
+<text x="902" y="313" font-family="sans-serif" font-size="11" fill="#059669">etcd</text>
+<circle cx="99.8939775164821" cy="380.9921278927623" r="2" fill="#059669"><title>etcd: 1445.000 at 0.12 min</title></circle>
+<path d="M99.8939775164821 380.9921278927623L115.47412637138024 380.9921278927623" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="115.47412637138024" cy="380.9921278927623" r="2" fill="#059669"><title>etcd: 1445.000 at 0.51 min</title></circle>
+<path d="M115.47412637138024 380.9921278927623L131.10909195016094 381.44132276693506" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="131.10909195016094" cy="381.44132276693506" r="2" fill="#059669"><title>etcd: 1434.000 at 0.90 min</title></circle>
+<path d="M131.10909195016094 381.44132276693506L146.80391792040268 381.44132276693506" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="146.80391792040268" cy="381.44132276693506" r="2" fill="#059669"><title>etcd: 1434.000 at 1.29 min</title></circle>
+<path d="M146.80391792040268 381.44132276693506L162.24772934343525 381.7271740504995" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="162.24772934343525" cy="381.7271740504995" r="2" fill="#059669"><title>etcd: 1427.000 at 1.68 min</title></circle>
+<path d="M162.24772934343525 381.7271740504995L177.70307322875868 382.33971251528055" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="177.70307322875868" cy="382.33971251528055" r="2" fill="#059669"><title>etcd: 1412.000 at 2.06 min</title></circle>
+<path d="M177.70307322875868 382.33971251528055L193.0634207830158 382.33971251528055" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="193.0634207830158" cy="382.33971251528055" r="2" fill="#059669"><title>etcd: 1412.000 at 2.44 min</title></circle>
+<path d="M193.0634207830158 382.33971251528055L208.27007390598044 382.2988766176285" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="208.27007390598044" cy="382.2988766176285" r="2" fill="#059669"><title>etcd: 1413.000 at 2.82 min</title></circle>
+<path d="M208.27007390598044 382.2988766176285L224.11612982257236 382.2988766176285" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="224.11612982257236" cy="382.2988766176285" r="2" fill="#059669"><title>etcd: 1413.000 at 3.22 min</title></circle>
+<path d="M224.11612982257236 382.2988766176285L239.39419047548904 382.2988766176285" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="239.39419047548904" cy="382.2988766176285" r="2" fill="#059669"><title>etcd: 1413.000 at 3.60 min</title></circle>
+<path d="M239.39419047548904 382.2988766176285L254.51913816177864 382.21720482232433" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="254.51913816177864" cy="382.21720482232433" r="2" fill="#059669"><title>etcd: 1415.000 at 3.97 min</title></circle>
+<path d="M254.51913816177864 382.21720482232433L269.7476071370811 382.21720482232433" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="269.7476071370811" cy="382.21720482232433" r="2" fill="#059669"><title>etcd: 1415.000 at 4.35 min</title></circle>
+<path d="M269.7476071370811 382.21720482232433L284.80657509458126 382.21720482232433" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="284.80657509458126" cy="382.21720482232433" r="2" fill="#059669"><title>etcd: 1415.000 at 4.73 min</title></circle>
+<path d="M284.80657509458126 382.21720482232433L299.9125847399357 382.17636892467226" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="299.9125847399357" cy="382.17636892467226" r="2" fill="#059669"><title>etcd: 1416.000 at 5.10 min</title></circle>
+<path d="M299.9125847399357 382.17636892467226L314.96960156044776 382.17636892467226" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="314.96960156044776" cy="382.17636892467226" r="2" fill="#059669"><title>etcd: 1416.000 at 5.48 min</title></circle>
+<path d="M314.96960156044776 382.17636892467226L330.05227269770836 382.1355330270202" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="330.05227269770836" cy="382.1355330270202" r="2" fill="#059669"><title>etcd: 1417.000 at 5.86 min</title></circle>
+<path d="M330.05227269770836 382.1355330270202L345.1400262668585 382.1355330270202" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="345.1400262668585" cy="382.1355330270202" r="2" fill="#059669"><title>etcd: 1417.000 at 6.23 min</title></circle>
+<path d="M345.1400262668585 382.1355330270202L360.167785603984 382.1355330270202" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="360.167785603984" cy="382.1355330270202" r="2" fill="#059669"><title>etcd: 1417.000 at 6.61 min</title></circle>
+<path d="M360.167785603984 382.1355330270202L375.1362481476354 382.0946971293681" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="375.1362481476354" cy="382.0946971293681" r="2" fill="#059669"><title>etcd: 1418.000 at 6.98 min</title></circle>
+<path d="M375.1362481476354 382.0946971293681L390.0869148415735 382.0946971293681" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="390.0869148415735" cy="382.0946971293681" r="2" fill="#059669"><title>etcd: 1418.000 at 7.35 min</title></circle>
+<path d="M390.0869148415735 382.0946971293681L405.06224967542585 382.0946971293681" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="405.06224967542585" cy="382.0946971293681" r="2" fill="#059669"><title>etcd: 1418.000 at 7.72 min</title></circle>
+<path d="M405.06224967542585 382.0946971293681L420.40575740678423 382.1355330270202" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="420.40575740678423" cy="382.1355330270202" r="2" fill="#059669"><title>etcd: 1417.000 at 8.11 min</title></circle>
+<path d="M420.40575740678423 382.1355330270202L435.4966698684728 382.1355330270202" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="435.4966698684728" cy="382.1355330270202" r="2" fill="#059669"><title>etcd: 1417.000 at 8.48 min</title></circle>
+<path d="M435.4966698684728 382.1355330270202L450.43415940857 382.1355330270202" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="450.43415940857" cy="382.1355330270202" r="2" fill="#059669"><title>etcd: 1417.000 at 8.85 min</title></circle>
+<path d="M450.43415940857 382.1355330270202L465.58378257287393 382.1355330270202" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="465.58378257287393" cy="382.1355330270202" r="2" fill="#059669"><title>etcd: 1417.000 at 9.23 min</title></circle>
+<path d="M465.58378257287393 382.1355330270202L480.60619849698713 382.1355330270202" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="480.60619849698713" cy="382.1355330270202" r="2" fill="#059669"><title>etcd: 1417.000 at 9.61 min</title></circle>
+<path d="M480.60619849698713 382.1355330270202L495.8041054023371 382.0946971293681" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="495.8041054023371" cy="382.0946971293681" r="2" fill="#059669"><title>etcd: 1418.000 at 9.98 min</title></circle>
+<path d="M495.8041054023371 382.0946971293681L510.8231732385501 382.0946971293681" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="510.8231732385501" cy="382.0946971293681" r="2" fill="#059669"><title>etcd: 1418.000 at 10.36 min</title></circle>
+<path d="M510.8231732385501 382.0946971293681L525.7670139042223 382.0946971293681" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="525.7670139042223" cy="382.0946971293681" r="2" fill="#059669"><title>etcd: 1418.000 at 10.73 min</title></circle>
+<path d="M525.7670139042223 382.0946971293681L541.9128926236976 382.05386123171604" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="541.9128926236976" cy="382.05386123171604" r="2" fill="#059669"><title>etcd: 1419.000 at 11.13 min</title></circle>
+<path d="M541.9128926236976 382.05386123171604L557.2488811953851 382.05386123171604" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="557.2488811953851" cy="382.05386123171604" r="2" fill="#059669"><title>etcd: 1419.000 at 11.51 min</title></circle>
+<path d="M557.2488811953851 382.05386123171604L572.3071164595499 382.05386123171604" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="572.3071164595499" cy="382.05386123171604" r="2" fill="#059669"><title>etcd: 1419.000 at 11.89 min</title></circle>
+<path d="M572.3071164595499 382.05386123171604L587.4588646419077 382.05386123171604" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="587.4588646419077" cy="382.05386123171604" r="2" fill="#059669"><title>etcd: 1419.000 at 12.27 min</title></circle>
+<path d="M587.4588646419077 382.05386123171604L603.4829919985639 382.05386123171604" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="603.4829919985639" cy="382.05386123171604" r="2" fill="#059669"><title>etcd: 1419.000 at 12.67 min</title></circle>
+<path d="M603.4829919985639 382.05386123171604L618.8403006222655 381.97218943641195" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="618.8403006222655" cy="381.97218943641195" r="2" fill="#059669"><title>etcd: 1421.000 at 13.05 min</title></circle>
+<path d="M618.8403006222655 381.97218943641195L633.767828053478 381.97218943641195" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="633.767828053478" cy="381.97218943641195" r="2" fill="#059669"><title>etcd: 1421.000 at 13.42 min</title></circle>
+<path d="M633.767828053478 381.97218943641195L648.7766006948746 381.9313535387599" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="648.7766006948746" cy="381.9313535387599" r="2" fill="#059669"><title>etcd: 1422.000 at 13.79 min</title></circle>
+<path d="M648.7766006948746 381.9313535387599L663.7146362853283 381.9313535387599" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="663.7146362853283" cy="381.9313535387599" r="2" fill="#059669"><title>etcd: 1422.000 at 14.17 min</title></circle>
+<path d="M663.7146362853283 381.9313535387599L678.7787627676248 381.9313535387599" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="678.7787627676248" cy="381.9313535387599" r="2" fill="#059669"><title>etcd: 1422.000 at 14.54 min</title></circle>
+<path d="M678.7787627676248 381.9313535387599L693.8744497800496 381.8905176411078" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="693.8744497800496" cy="381.8905176411078" r="2" fill="#059669"><title>etcd: 1423.000 at 14.92 min</title></circle>
+<path d="M693.8744497800496 381.8905176411078L708.9661289136673 381.8905176411078" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="708.9661289136673" cy="381.8905176411078" r="2" fill="#059669"><title>etcd: 1423.000 at 15.29 min</title></circle>
+<path d="M708.9661289136673 381.8905176411078L725.3933098691729 381.8905176411078" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="725.3933098691729" cy="381.8905176411078" r="2" fill="#059669"><title>etcd: 1423.000 at 15.70 min</title></circle>
+<path d="M725.3933098691729 381.8905176411078L741.8497602723585 381.8496817434557" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="741.8497602723585" cy="381.8496817434557" r="2" fill="#059669"><title>etcd: 1424.000 at 16.11 min</title></circle>
+<path d="M741.8497602723585 381.8496817434557L758.7051452074189 381.8496817434557" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="758.7051452074189" cy="381.8496817434557" r="2" fill="#059669"><title>etcd: 1424.000 at 16.53 min</title></circle>
+<path d="M758.7051452074189 381.8496817434557L775.4237812984403 381.7680099481516" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="775.4237812984403" cy="381.7680099481516" r="2" fill="#059669"><title>etcd: 1426.000 at 16.95 min</title></circle>
+<path d="M775.4237812984403 381.7680099481516L791.2057095588806 381.7680099481516" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="791.2057095588806" cy="381.7680099481516" r="2" fill="#059669"><title>etcd: 1426.000 at 17.34 min</title></circle>
+<path d="M791.2057095588806 381.7680099481516L807.0278375265177 381.7680099481516" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="807.0278375265177" cy="381.7680099481516" r="2" fill="#059669"><title>etcd: 1426.000 at 17.74 min</title></circle>
+<path d="M807.0278375265177 381.7680099481516L822.9556738560241 381.48215866458713" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="822.9556738560241" cy="381.48215866458713" r="2" fill="#059669"><title>etcd: 1433.000 at 18.13 min</title></circle>
+<path d="M822.9556738560241 381.48215866458713L838.8262353576622 381.48215866458713" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="838.8262353576622" cy="381.48215866458713" r="2" fill="#059669"><title>etcd: 1433.000 at 18.53 min</title></circle>
+<path d="M838.8262353576622 381.48215866458713L854.9395120153769 381.44132276693506" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="854.9395120153769" cy="381.44132276693506" r="2" fill="#059669"><title>etcd: 1434.000 at 18.93 min</title></circle>
+<path d="M854.9395120153769 381.44132276693506L870.8441168773356 381.44132276693506" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="870.8441168773356" cy="381.44132276693506" r="2" fill="#059669"><title>etcd: 1434.000 at 19.33 min</title></circle>
+<path d="M870.8441168773356 381.44132276693506L874.4574641720386 381.44132276693506" fill="none" stroke="#059669" stroke-width="1.5"/>
+<circle cx="874.4574641720386" cy="381.44132276693506" r="2" fill="#059669"><title>etcd: 1434.000 at 19.42 min</title></circle>
+<text x="95" y="502" font-family="sans-serif" font-size="13">API process RSS versus container working set, summed (MiB)</text>
+<path d="M95 665.0h795" stroke="#e2e8f0"/><text x="87" y="669.0" text-anchor="end" font-size="11">0.0</text>
+<path d="M95 626.25h795" stroke="#e2e8f0"/><text x="87" y="630.25" text-anchor="end" font-size="11">302.1</text>
+<path d="M95 587.5h795" stroke="#e2e8f0"/><text x="87" y="591.5" text-anchor="end" font-size="11">604.3</text>
+<path d="M95 548.75h795" stroke="#e2e8f0"/><text x="87" y="552.75" text-anchor="end" font-size="11">906.4</text>
+<path d="M95 510.0h795" stroke="#e2e8f0"/><text x="87" y="514.0" text-anchor="end" font-size="11">1208.5</text>
+<text x="95.0" y="682" text-anchor="middle" font-size="11">0</text>
+<text x="175.2910147040363" y="682" text-anchor="middle" font-size="11">2</text>
+<text x="255.58202940807257" y="682" text-anchor="middle" font-size="11">4</text>
+<text x="335.8730441121088" y="682" text-anchor="middle" font-size="11">6</text>
+<text x="416.16405881614514" y="682" text-anchor="middle" font-size="11">8</text>
+<text x="496.4550735201814" y="682" text-anchor="middle" font-size="11">10</text>
+<text x="576.7460882242176" y="682" text-anchor="middle" font-size="11">12</text>
+<text x="657.037102928254" y="682" text-anchor="middle" font-size="11">14</text>
+<text x="737.3281176322903" y="682" text-anchor="middle" font-size="11">16</text>
+<text x="817.6191323363265" y="682" text-anchor="middle" font-size="11">18</text>
+<text x="897.9101470403627" y="682" text-anchor="middle" font-size="11">20</text>
+<text x="902" y="510" font-family="sans-serif" font-size="11" fill="#2563eb">Process RSS</text>
+<circle cx="99.8939775164821" cy="554.8695696412927" r="2" fill="#2563eb"><title>Process RSS: 858.691 at 0.12 min</title></circle>
+<path d="M99.8939775164821 554.8695696412927L115.47412637138024 556.27685443091" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="115.47412637138024" cy="556.27685443091" r="2" fill="#2563eb"><title>Process RSS: 847.719 at 0.51 min</title></circle>
+<path d="M115.47412637138024 556.27685443091L131.10909195016094 556.27685443091" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="131.10909195016094" cy="556.27685443091" r="2" fill="#2563eb"><title>Process RSS: 847.719 at 0.90 min</title></circle>
+<circle cx="708.9661289136673" cy="527.698803076643" r="2" fill="#2563eb"><title>Process RSS: 1070.543 at 15.29 min</title></circle>
+<path d="M708.9661289136673 527.698803076643L725.3933098691729 526.6071428571429" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="725.3933098691729" cy="526.6071428571429" r="2" fill="#2563eb"><title>Process RSS: 1079.055 at 15.70 min</title></circle>
+<path d="M725.3933098691729 526.6071428571429L741.8497602723585 527.0795777295563" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="741.8497602723585" cy="527.0795777295563" r="2" fill="#2563eb"><title>Process RSS: 1075.371 at 16.11 min</title></circle>
+<path d="M741.8497602723585 527.0795777295563L758.7051452074189 529.8826245070245" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="758.7051452074189" cy="529.8826245070245" r="2" fill="#2563eb"><title>Process RSS: 1053.516 at 16.53 min</title></circle>
+<path d="M758.7051452074189 529.8826245070245L775.4237812984403 538.2111052270661" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="775.4237812984403" cy="538.2111052270661" r="2" fill="#2563eb"><title>Process RSS: 988.578 at 16.95 min</title></circle>
+<path d="M775.4237812984403 538.2111052270661L791.2057095588806 539.6659841978915" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="791.2057095588806" cy="539.6659841978915" r="2" fill="#2563eb"><title>Process RSS: 977.234 at 17.34 min</title></circle>
+<path d="M791.2057095588806 539.6659841978915L807.0278375265177 539.6659841978915" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="807.0278375265177" cy="539.6659841978915" r="2" fill="#2563eb"><title>Process RSS: 977.234 at 17.74 min</title></circle>
+<path d="M807.0278375265177 539.6659841978915L822.9556738560241 543.462997875538" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="822.9556738560241" cy="543.462997875538" r="2" fill="#2563eb"><title>Process RSS: 947.629 at 18.13 min</title></circle>
+<path d="M822.9556738560241 543.462997875538L838.8262353576622 543.4329383926697" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="838.8262353576622" cy="543.4329383926697" r="2" fill="#2563eb"><title>Process RSS: 947.863 at 18.53 min</title></circle>
+<path d="M838.8262353576622 543.4329383926697L854.9395120153769 544.9729858982886" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="854.9395120153769" cy="544.9729858982886" r="2" fill="#2563eb"><title>Process RSS: 935.855 at 18.93 min</title></circle>
+<path d="M854.9395120153769 544.9729858982886L870.8441168773356 544.9008431394046" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+<circle cx="870.8441168773356" cy="544.9008431394046" r="2" fill="#2563eb"><title>Process RSS: 936.418 at 19.33 min</title></circle>
+<text x="902" y="524" font-family="sans-serif" font-size="11" fill="#ea580c">Working set</text>
+<circle cx="99.8939775164821" cy="570.34870034432" r="2" fill="#ea580c"><title>Working set: 738.000 at 0.12 min</title></circle>
+<path d="M99.8939775164821 570.34870034432L115.47412637138024 570.34870034432" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="115.47412637138024" cy="570.34870034432" r="2" fill="#ea580c"><title>Working set: 738.000 at 0.51 min</title></circle>
+<path d="M115.47412637138024 570.34870034432L131.10909195016094 571.7594920736053" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="131.10909195016094" cy="571.7594920736053" r="2" fill="#ea580c"><title>Working set: 727.000 at 0.90 min</title></circle>
+<path d="M131.10909195016094 571.7594920736053L146.80391792040268 571.7594920736053" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="146.80391792040268" cy="571.7594920736053" r="2" fill="#ea580c"><title>Working set: 727.000 at 1.29 min</title></circle>
+<path d="M146.80391792040268 571.7594920736053L162.24772934343525 571.7594920736053" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="162.24772934343525" cy="571.7594920736053" r="2" fill="#ea580c"><title>Working set: 727.000 at 1.68 min</title></circle>
+<path d="M162.24772934343525 571.7594920736053L177.70307322875868 541.8763581714733" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="177.70307322875868" cy="541.8763581714733" r="2" fill="#ea580c"><title>Working set: 960.000 at 2.06 min</title></circle>
+<path d="M177.70307322875868 541.8763581714733L193.0634207830158 541.8763581714733" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="193.0634207830158" cy="541.8763581714733" r="2" fill="#ea580c"><title>Working set: 960.000 at 2.44 min</title></circle>
+<path d="M193.0634207830158 541.8763581714733L208.27007390598044 540.0808050614739" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="208.27007390598044" cy="540.0808050614739" r="2" fill="#ea580c"><title>Working set: 974.000 at 2.82 min</title></circle>
+<path d="M208.27007390598044 540.0808050614739L224.11612982257236 540.0808050614739" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="224.11612982257236" cy="540.0808050614739" r="2" fill="#ea580c"><title>Working set: 974.000 at 3.22 min</title></circle>
+<path d="M224.11612982257236 540.0808050614739L239.39419047548904 540.0808050614739" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="239.39419047548904" cy="540.0808050614739" r="2" fill="#ea580c"><title>Working set: 974.000 at 3.60 min</title></circle>
+<path d="M239.39419047548904 540.0808050614739L254.51913816177864 541.4915967907591" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="254.51913816177864" cy="541.4915967907591" r="2" fill="#ea580c"><title>Working set: 963.000 at 3.97 min</title></circle>
+<path d="M254.51913816177864 541.4915967907591L269.7476071370811 541.4915967907591" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="269.7476071370811" cy="541.4915967907591" r="2" fill="#ea580c"><title>Working set: 963.000 at 4.35 min</title></circle>
+<path d="M269.7476071370811 541.4915967907591L284.80657509458126 541.4915967907591" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="284.80657509458126" cy="541.4915967907591" r="2" fill="#ea580c"><title>Working set: 963.000 at 4.73 min</title></circle>
+<path d="M284.80657509458126 541.4915967907591L299.9125847399357 539.6960436807598" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="299.9125847399357" cy="539.6960436807598" r="2" fill="#ea580c"><title>Working set: 977.000 at 5.10 min</title></circle>
+<path d="M299.9125847399357 539.6960436807598L314.96960156044776 539.6960436807598" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="314.96960156044776" cy="539.6960436807598" r="2" fill="#ea580c"><title>Working set: 977.000 at 5.48 min</title></circle>
+<path d="M314.96960156044776 539.6960436807598L330.05227269770836 539.439536093617" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="330.05227269770836" cy="539.439536093617" r="2" fill="#ea580c"><title>Working set: 979.000 at 5.86 min</title></circle>
+<path d="M330.05227269770836 539.439536093617L345.1400262668585 539.439536093617" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="345.1400262668585" cy="539.439536093617" r="2" fill="#ea580c"><title>Working set: 979.000 at 6.23 min</title></circle>
+<path d="M345.1400262668585 539.439536093617L360.167785603984 539.439536093617" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="360.167785603984" cy="539.439536093617" r="2" fill="#ea580c"><title>Working set: 979.000 at 6.61 min</title></circle>
+<path d="M360.167785603984 539.439536093617L375.1362481476354 542.9023885200444" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="375.1362481476354" cy="542.9023885200444" r="2" fill="#ea580c"><title>Working set: 952.000 at 6.98 min</title></circle>
+<path d="M375.1362481476354 542.9023885200444L390.0869148415735 542.9023885200444" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="390.0869148415735" cy="542.9023885200444" r="2" fill="#ea580c"><title>Working set: 952.000 at 7.35 min</title></circle>
+<path d="M390.0869148415735 542.9023885200444L405.06224967542585 542.9023885200444" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="405.06224967542585" cy="542.9023885200444" r="2" fill="#ea580c"><title>Working set: 952.000 at 7.72 min</title></circle>
+<path d="M405.06224967542585 542.9023885200444L420.40575740678423 540.5938202357595" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="420.40575740678423" cy="540.5938202357595" r="2" fill="#ea580c"><title>Working set: 970.000 at 8.11 min</title></circle>
+<path d="M420.40575740678423 540.5938202357595L435.4966698684728 540.5938202357595" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="435.4966698684728" cy="540.5938202357595" r="2" fill="#ea580c"><title>Working set: 970.000 at 8.48 min</title></circle>
+<path d="M435.4966698684728 540.5938202357595L450.43415940857 541.4915967907591" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="450.43415940857" cy="541.4915967907591" r="2" fill="#ea580c"><title>Working set: 963.000 at 8.85 min</title></circle>
+<path d="M450.43415940857 541.4915967907591L465.58378257287393 541.4915967907591" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="465.58378257287393" cy="541.4915967907591" r="2" fill="#ea580c"><title>Working set: 963.000 at 9.23 min</title></circle>
+<path d="M465.58378257287393 541.4915967907591L480.60619849698713 541.4915967907591" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="480.60619849698713" cy="541.4915967907591" r="2" fill="#ea580c"><title>Working set: 963.000 at 9.61 min</title></circle>
+<path d="M480.60619849698713 541.4915967907591L495.8041054023371 540.5938202357595" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="495.8041054023371" cy="540.5938202357595" r="2" fill="#ea580c"><title>Working set: 970.000 at 9.98 min</title></circle>
+<path d="M495.8041054023371 540.5938202357595L510.8231732385501 540.5938202357595" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="510.8231732385501" cy="540.5938202357595" r="2" fill="#ea580c"><title>Working set: 970.000 at 10.36 min</title></circle>
+<path d="M510.8231732385501 540.5938202357595L525.7670139042223 540.5938202357595" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="525.7670139042223" cy="540.5938202357595" r="2" fill="#ea580c"><title>Working set: 970.000 at 10.73 min</title></circle>
+<path d="M525.7670139042223 540.5938202357595L541.9128926236976 540.5938202357595" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="541.9128926236976" cy="540.5938202357595" r="2" fill="#ea580c"><title>Working set: 970.000 at 11.13 min</title></circle>
+<path d="M541.9128926236976 540.5938202357595L557.2488811953851 540.5938202357595" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="557.2488811953851" cy="540.5938202357595" r="2" fill="#ea580c"><title>Working set: 970.000 at 11.51 min</title></circle>
+<path d="M557.2488811953851 540.5938202357595L572.3071164595499 541.4915967907591" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="572.3071164595499" cy="541.4915967907591" r="2" fill="#ea580c"><title>Working set: 963.000 at 11.89 min</title></circle>
+<path d="M572.3071164595499 541.4915967907591L587.4588646419077 541.6198505843305" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="587.4588646419077" cy="541.6198505843305" r="2" fill="#ea580c"><title>Working set: 962.000 at 12.27 min</title></circle>
+<path d="M587.4588646419077 541.6198505843305L603.4829919985639 541.4915967907591" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="603.4829919985639" cy="541.4915967907591" r="2" fill="#ea580c"><title>Working set: 963.000 at 12.67 min</title></circle>
+<path d="M603.4829919985639 541.4915967907591L618.8403006222655 539.0547747129028" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="618.8403006222655" cy="539.0547747129028" r="2" fill="#ea580c"><title>Working set: 982.000 at 13.05 min</title></circle>
+<path d="M618.8403006222655 539.0547747129028L633.767828053478 539.0547747129028" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="633.767828053478" cy="539.0547747129028" r="2" fill="#ea580c"><title>Working set: 982.000 at 13.42 min</title></circle>
+<path d="M633.767828053478 539.0547747129028L648.7766006948746 541.4915967907591" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="648.7766006948746" cy="541.4915967907591" r="2" fill="#ea580c"><title>Working set: 963.000 at 13.79 min</title></circle>
+<path d="M648.7766006948746 541.4915967907591L663.7146362853283 541.4915967907591" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="663.7146362853283" cy="541.4915967907591" r="2" fill="#ea580c"><title>Working set: 963.000 at 14.17 min</title></circle>
+<path d="M663.7146362853283 541.4915967907591L678.7787627676248 541.4915967907591" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="678.7787627676248" cy="541.4915967907591" r="2" fill="#ea580c"><title>Working set: 963.000 at 14.54 min</title></circle>
+<path d="M678.7787627676248 541.4915967907591L693.8744497800496 541.3633429971877" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="693.8744497800496" cy="541.3633429971877" r="2" fill="#ea580c"><title>Working set: 964.000 at 14.92 min</title></circle>
+<path d="M693.8744497800496 541.3633429971877L708.9661289136673 541.3633429971877" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="708.9661289136673" cy="541.3633429971877" r="2" fill="#ea580c"><title>Working set: 964.000 at 15.29 min</title></circle>
+<path d="M708.9661289136673 541.3633429971877L725.3933098691729 541.3633429971877" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="725.3933098691729" cy="541.3633429971877" r="2" fill="#ea580c"><title>Working set: 964.000 at 15.70 min</title></circle>
+<path d="M725.3933098691729 541.3633429971877L741.8497602723585 541.6198505843305" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="741.8497602723585" cy="541.6198505843305" r="2" fill="#ea580c"><title>Working set: 962.000 at 16.11 min</title></circle>
+<path d="M741.8497602723585 541.6198505843305L758.7051452074189 541.6198505843305" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="758.7051452074189" cy="541.6198505843305" r="2" fill="#ea580c"><title>Working set: 962.000 at 16.53 min</title></circle>
+<path d="M758.7051452074189 541.6198505843305L775.4237812984403 544.5696878364723" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="775.4237812984403" cy="544.5696878364723" r="2" fill="#ea580c"><title>Working set: 939.000 at 16.95 min</title></circle>
+<path d="M775.4237812984403 544.5696878364723L791.2057095588806 544.5696878364723" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="791.2057095588806" cy="544.5696878364723" r="2" fill="#ea580c"><title>Working set: 939.000 at 17.34 min</title></circle>
+<path d="M791.2057095588806 544.5696878364723L807.0278375265177 544.5696878364723" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="807.0278375265177" cy="544.5696878364723" r="2" fill="#ea580c"><title>Working set: 939.000 at 17.74 min</title></circle>
+<path d="M807.0278375265177 544.5696878364723L822.9556738560241 554.3169761478973" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="822.9556738560241" cy="554.3169761478973" r="2" fill="#ea580c"><title>Working set: 863.000 at 18.13 min</title></circle>
+<path d="M822.9556738560241 554.3169761478973L838.8262353576622 554.3169761478973" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="838.8262353576622" cy="554.3169761478973" r="2" fill="#ea580c"><title>Working set: 863.000 at 18.53 min</title></circle>
+<path d="M838.8262353576622 554.3169761478973L854.9395120153769 558.1645899550388" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="854.9395120153769" cy="558.1645899550388" r="2" fill="#ea580c"><title>Working set: 833.000 at 18.93 min</title></circle>
+<path d="M854.9395120153769 558.1645899550388L870.8441168773356 558.1645899550388" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="870.8441168773356" cy="558.1645899550388" r="2" fill="#ea580c"><title>Working set: 833.000 at 19.33 min</title></circle>
+<path d="M870.8441168773356 558.1645899550388L874.4574641720386 558.1645899550388" fill="none" stroke="#ea580c" stroke-width="1.5"/>
+<circle cx="874.4574641720386" cy="558.1645899550388" r="2" fill="#ea580c"><title>Working set: 833.000 at 19.42 min</title></circle>
+<text x="95" y="753" font-family="sans-serif" font-size="12">Minutes from each run’s collection start; gaps longer than 90 seconds are not connected.</text></svg>

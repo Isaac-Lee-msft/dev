@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 430" role="img"><title>Latency of completed streaming LIST requests</title>
+<rect width="100%" height="100%" fill="white"/>
+<text x="25" y="30" font-family="sans-serif" font-size="21">Latency of completed streaming LIST requests</text>
+<path d="M 85 340.0 h 865" stroke="#e2e8f0"/>
+<text x="77" y="345.0" text-anchor="end" font-family="sans-serif" font-size="12">0.0</text>
+<path d="M 85 286.0 h 865" stroke="#e2e8f0"/>
+<text x="77" y="291.0" text-anchor="end" font-family="sans-serif" font-size="12">10.3</text>
+<path d="M 85 232.0 h 865" stroke="#e2e8f0"/>
+<text x="77" y="237.0" text-anchor="end" font-family="sans-serif" font-size="12">20.5</text>
+<path d="M 85 178.0 h 865" stroke="#e2e8f0"/>
+<text x="77" y="183.0" text-anchor="end" font-family="sans-serif" font-size="12">30.8</text>
+<path d="M 85 123.99999999999999 h 865" stroke="#e2e8f0"/>
+<text x="77" y="129.0" text-anchor="end" font-family="sans-serif" font-size="12">41.0</text>
+<path d="M 85 70.0 h 865" stroke="#e2e8f0"/>
+<text x="77" y="75.0" text-anchor="end" font-family="sans-serif" font-size="12">51.3</text>
+<text x="8" y="52" font-family="sans-serif" font-size="12">seconds</text>
+<text x="85" y="52" fill="#2563eb" font-family="sans-serif" font-size="12">Standard etcd</text>
+<rect x="164.16666666666666" y="202.76788349931917" width="62" height="137.23211650068083" fill="#2563eb"><title>Standard etcd: 26.06 seconds</title></rect>
+<rect x="452.5" y="155.14748285382657" width="62" height="184.85251714617343" fill="#2563eb"><title>Standard etcd: 35.10 seconds</title></rect>
+<rect x="740.8333333333333" y="131.66567400640724" width="62" height="208.33432599359276" fill="#2563eb"><title>Standard etcd: 39.56 seconds</title></rect>
+<text x="345" y="52" fill="#ea580c" font-family="sans-serif" font-size="12">TiKV-Dovetail</text>
+<rect x="229.16666666666666" y="188.41173532673665" width="62" height="151.58826467326335" fill="#ea580c"><title>TiKV-Dovetail: 28.78 seconds</title></rect>
+<rect x="517.5" y="132.4565853286031" width="62" height="207.5434146713969" fill="#ea580c"><title>TiKV-Dovetail: 39.41 seconds</title></rect>
+<rect x="805.8333333333333" y="105.21739130434781" width="62" height="234.7826086956522" fill="#ea580c"><title>TiKV-Dovetail: 44.58 seconds</title></rect>
+<text x="229.16666666666666" y="365" text-anchor="middle" font-family="sans-serif" font-size="12">Median</text>
+<text x="517.5" y="365" text-anchor="middle" font-family="sans-serif" font-size="12">95th percentile</text>
+<text x="805.8333333333333" y="365" text-anchor="middle" font-family="sans-serif" font-size="12">99th percentile</text>
+</svg>

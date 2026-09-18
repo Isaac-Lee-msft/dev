@@ -1,0 +1,158 @@
+{
+  "etcd": {
+    "attempted": 36000,
+    "successful": 34052,
+    "errors": {
+      "http/429": 1948
+    },
+    "duration": "15m29.511524481s",
+    "successfulLatencySeconds": [
+      [
+        0,
+        0.187595716
+      ],
+      [
+        0.5,
+        26.055710585
+      ],
+      [
+        0.9,
+        33.052999826
+      ],
+      [
+        0.95,
+        35.097204725
+      ],
+      [
+        0.99,
+        39.555601425
+      ],
+      [
+        1,
+        51.501605334
+      ]
+    ],
+    "rawResultSHA256": "d2ea71240c95c51f86dfe1738fd05385a94b7bd4f60532a8e5a5f7d70d2747f1"
+  },
+  "tikv": {
+    "attempted": 36000,
+    "successful": 34628,
+    "errors": {
+      "http/429": 1361,
+      "http/504": 11
+    },
+    "duration": "17m14.326021865s",
+    "successfulLatencySeconds": [
+      [
+        0,
+        2.408800284
+      ],
+      [
+        0.5,
+        28.781454758
+      ],
+      [
+        0.9,
+        36.839933589
+      ],
+      [
+        0.95,
+        39.40543427
+      ],
+      [
+        0.99,
+        44.577230597
+      ],
+      [
+        1,
+        60.097116185
+      ]
+    ],
+    "rawResultSHA256": "30e02099b607e28b8b313986c280a5baefee9c1b4b4dc796bd10b0c285dda425"
+  },
+  "resources": {
+    "etcd": {
+      "API server": {
+        "cpuM": 1800.0,
+        "memoryMiB": 516.0,
+        "cpuPercent": 90.0,
+        "memoryPercent": 18.0355072
+      },
+      "etcd": {
+        "cpuM": 131.0,
+        "memoryMiB": 494.0,
+        "cpuPercent": 2.183333333333333,
+        "memoryPercent": 1.6080729166666665
+      }
+    },
+    "tikv": {
+      "API server": {
+        "cpuM": 1582.0,
+        "memoryMiB": 392.0,
+        "cpuPercent": 79.1,
+        "memoryPercent": 13.701393066666668
+      },
+      "Dovetail": {
+        "cpuM": 633.0,
+        "memoryMiB": 47.0,
+        "cpuPercent": 63.3,
+        "memoryPercent": 2.294921875
+      },
+      "PD": {
+        "cpuM": 449.0,
+        "memoryMiB": 108.0,
+        "cpuPercent": 11.225,
+        "memoryPercent": 5.2734375
+      },
+      "TiKV": {
+        "cpuM": 870.0,
+        "memoryMiB": 2485.0,
+        "cpuPercent": 21.75,
+        "memoryPercent": 30.33447265625
+      }
+    },
+    "peakRunnerCpuM": {
+      "etcd": 3838,
+      "tikv": 3818
+    },
+    "peakWorkerCpuM": {
+      "etcd": 4000,
+      "tikv": 4000
+    }
+  },
+  "method": {
+    "runners": 10,
+    "requestsPerRunner": 3600,
+    "maxRatePerRunner": 10,
+    "clientsPerRunner": 100,
+    "transportsPerRunner": 10,
+    "retries": 0,
+    "testConfigMaps": 500,
+    "dataBytesPerConfigMap": 1024,
+    "selectedObjects": 501,
+    "requestTimeoutSeconds": 60,
+    "runsPerBackend": 1
+  },
+  "timeSeriesFile": "timeseries.json",
+  "fixtureCounts": {
+    "etcd": {
+      "configMapsCreated": 500,
+      "runnerPodsCreated": 10,
+      "coordinatorPodsCreated": 1,
+      "nodesCreated": 0,
+      "existingWorkerNodes": 1
+    },
+    "tikv": {
+      "configMapsCreated": 500,
+      "runnerPodsCreated": 10,
+      "coordinatorPodsCreated": 1,
+      "nodesCreated": 0,
+      "existingWorkerNodes": 1
+    }
+  },
+  "latencyTimeSeries": {
+    "clientSuccess": "unavailable; only whole-run percentiles retained",
+    "apiWatch": "interval histogram mean and estimated p95; gaps preserved",
+    "clientFailures": "timestamped records, 60-second bins"
+  }
+}
